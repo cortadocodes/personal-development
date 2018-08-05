@@ -29,10 +29,4 @@ the `io` libary |
 | Use of vim in depth |
 | Markdown vs reStructuredText |
 | Sphinx documentation |
-
-For later:
-
-| Topic              | Addressed| Pedagogical project location |
-| ------------------ | ---------| ---------------------------- |
 | Machine learning libraries |
-| This course: http://course.fast.ai/index.htm |

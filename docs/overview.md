@@ -1,4 +1,4 @@
-# personal-development
+# Personal development - Marcus Lugg (cortadocodes)
 This repository is the one-stop location for all matters related to my 
 personal development as a Python programmer. This includes my overall plan, 
 broad and narrow checklists of topics and subjects I need to become familiar 
