@@ -1,20 +1,16 @@
-# Topics overview
+## Topics for study
 This is the list of topics I have so far identified as areas needing study 
 and investigation.
-
-For now:
 
 | Topic              | Addressed| Pedagogical project location |
 | ------------------ | ---------| ---------------------------- |
 | SQL (all major types) |
-| NoSQL databases
-| Creating, hosting and interacting with databases
-| Interacting with and building API | 
+| NoSQL databases |
+| Creating, hosting and interacting with databases |
+| Interacting with and building APIs | 
 | Bash and shell programming and scripts |
 | Google cloud platform |
-| Read through "Fluent Python" |
-| File I/O including binary files and streams (including text wrappers and 
-the `io` libary |
+| File I/O including binary files and streams (including text wrappers and the `io` libary) |
 | Context managers |
 | Mapping |
 | Testing and mocking |

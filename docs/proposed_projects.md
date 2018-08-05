@@ -1,4 +1,4 @@
-# Proposed projects
+## Proposed projects
 
 | Project | Location |
 | ------- | ----------- |

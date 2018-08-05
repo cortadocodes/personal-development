@@ -1,4 +1,4 @@
-# Proposed certifications and qualifications
+## Proposed certifications and qualifications
 
 | Certification | Syllabus location | Achieved |
 | ------------- | ----------------- | -------- |
