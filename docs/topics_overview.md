@@ -27,6 +27,8 @@ the `io` libary |
 | "Hypothesis" company tests |
 | Use of PyCharm in depth |
 | Use of vim in depth |
+| Markdown vs reStructuredText |
+| Sphinx documentation |
 
 For later:
 
