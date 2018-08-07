@@ -29,3 +29,4 @@ and investigation.
 | Hashes |
 | Matplotlib and seaborn |
 | Advanced use of git (rebasing, squashing, soft and hard pushes etc.) |
+| Versioning and releases of python packages |
