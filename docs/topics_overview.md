@@ -26,3 +26,6 @@ and investigation.
 | Markdown vs reStructuredText |
 | Sphinx documentation |
 | Machine learning libraries |
+| Hashes |
+| Matplotlib and seaborn |
+| Advanced use of git (rebasing, squashing, soft and hard pushes etc.) |
