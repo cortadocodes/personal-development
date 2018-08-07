@@ -1,8 +1,8 @@
 # Git commit messages
 
 ## Message Structure
-A commit messages consists of three distinct parts separated by a blank line: the title, an optional body and an optional footer. The layout looks like this:
-
+A commit messages consists of three distinct parts separated by a blank line: the title, an optional body and an optional 
+footer. The layout looks like this:
 ```
 title (type: subject)
 
@@ -23,16 +23,21 @@ footer
 * TEST: adding tests, refactoring test; no production code change
 * CHORE: updating build tasks, package manager configs, etc; no production code change
 
-**Subject** - should be no greater than 50 characters, should begin with a capital letter and do not end with a period. 
-Use an imperative tone to describe what a commit does, rather than what it did. For example, use change; not changed or 
-changes.
+**Subject** - describe succinctly what the commit does. The subject should:
+* be no greater than 50 characters
+* begin with a capital letter 
+* not end with a period
+* be written in the imperative (i.e. describe what the commit does, rather than what it did or is doing e.g. use 
+'change'; not 'changed' or 'changes')
 
-**Body** - Use the body to explain the what and why of a commit, not the how. Not all commits are complex enough to 
-warrant a body, therefore it is optional and only used when a commit requires a bit of explanation and context. When 
-writing a body, the blank line between the title and the body is required and you should limit the length of each line 
-to no more than 72 characters.
+**Body** - explain the what and why of a commit, not the how. When writing a body:
+ * a blank line between the title and the body is required
+ * line length should be limited to no more than 72 characters.
 
-**Footer** - Use to reference issues and pull requests if necessary
+Not all commits are complex enough to warrant a body, therefore it is optional and only used when a commit requires a 
+bit of explanation and context.
+
+**Footer** - Use to reference, resolve and close issues and pull requests if necessary
 
 ## Example Commit Message
 ```
