@@ -1,6 +1,6 @@
 # Git commit messages
 
-## Message Structure
+## Message structure
 A commit messages consists of three distinct parts separated by a blank line: the title, an optional body and an optional 
 footer. The layout looks like this:
 ```
@@ -11,7 +11,7 @@ body
 footer
 ```
 
-## Components:
+## Components
 **Title** - consists of the type of the message and subject.
 
 **Type** - this is contained within the title and can be one of:
@@ -37,9 +37,9 @@ footer
 Not all commits are complex enough to warrant a body, therefore it is optional and only used when a commit requires a 
 bit of explanation and context.
 
-**Footer** - Use to reference, resolve and close issues and pull requests if necessary
+**Footer** - Use to reference, resolve and close issues and pull requests if necessary.
 
-## Example Commit Message
+## Example commit message
 ```
 ENH: Summarize changes in around 50 characters or less
 
