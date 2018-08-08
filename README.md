@@ -11,7 +11,7 @@ This is the list of topics I have identified for further study and investigation
 
 | Topic              | Priority | Addressed | Details |
 | :----------------- | :-------:| :-------: | :----------------------------: |
-| Advanced use of git (rebasing, squashing, soft and hard pushes etc.) | 0 |  | [Here](git.md) |
+| Advanced use of git (rebasing, squashing, soft and hard pushes etc.) | 0 |  | [Here](./git.md) |
 | SQL (one of the major flavours) | 1 |
 | Creating, hosting and interacting with databases | 1 |
 | Interacting with and building APIs | 1 | 
