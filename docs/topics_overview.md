@@ -1,7 +1,7 @@
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
-| Topic              | Priority | Addressed | Pedagogical project location |
+| Topic              | Priority | Addressed | Details |
 | ------------------ | :-------:| :-------: | ---------------------------- |
 | Advanced use of git (rebasing, squashing, soft and hard pushes etc.) | 0 |
 | SQL (one of the major flavours) | 1 |
