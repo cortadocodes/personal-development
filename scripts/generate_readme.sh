@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 export overview="../docs/overview.md"
-export topics_overview="../docs/topics_overview.md"
+export topics_overview="../docs/topics/topics_overview.md"
 export proposed_projects="../docs/proposed_projects.md"
 export books="../docs/books.md"
 export courses="../docs/courses.md"

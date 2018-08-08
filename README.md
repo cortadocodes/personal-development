@@ -9,7 +9,7 @@ to and changed over time as I progress.
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
-| Topic              | Priority | Addressed | Pedagogical project location |
+| Topic              | Priority | Addressed | Details |
 | ------------------ | :-------:| :-------: | ---------------------------- |
 | Advanced use of git (rebasing, squashing, soft and hard pushes etc.) | 0 |
 | SQL (one of the major flavours) | 1 |
@@ -73,7 +73,6 @@ This is the list of topics I have identified for further study and investigation
 | Artificial Neural Networks | [Brilliant](https://brilliant.org/courses/artificial-neural-networks/) | Paid | No |
 | Computer Memory | [Brilliant](https://brilliant.org/courses/memory/) | Paid | No |
 | Machine Learning | [Brilliant](https://brilliant.org/courses/machine-learning/) | Paid | No |
-| 
  
  ### Larger courses
 | Course | Location | Paid/free | Certified | Started | Completed |
