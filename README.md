@@ -8,7 +8,8 @@ This repository documents my personal development as a Python programmer. It inc
 * Best practices and useful commands I've found along the way (e.g. commit message formats or ideal package structures) 
 * Open questions I have
 
-Together, these form a plan and a measure of my progress; as such, it will be added to and changed over time.
+Together, these form a plan and a measure of my progress; as such, the repository will be added to, changed and 
+improved over time.
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
