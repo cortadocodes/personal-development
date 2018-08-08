@@ -1,11 +1,14 @@
 # Personal development - Marcus Lugg (cortadocodes)
 ## Overview
-This repository is the one-stop location for all matters related to my 
-personal development as a Python programmer. This includes my overall plan, 
-broad and narrow checklists of topics and subjects I need to become familiar 
-with, and a wiki of best-practices for any given processes (e.g. commit 
-message formats or ideal package structures) I come across. It will be added
-to and changed over time as I progress.
+This repository documents my personal development as a Python programmer. It includes:
+* Topics I've identified as important to study and practice
+* Details of books I intend to read
+* Details of courses I intend to take
+* Proposed projects to hone my skills
+* Best practices and useful commands I've found along the way (e.g. commit message formats or ideal package structures) 
+* Open questions I have
+
+Together, these form a plan and a measure of my progress; as such, it will be added to and changed over time.
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
