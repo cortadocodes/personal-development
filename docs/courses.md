@@ -19,7 +19,6 @@
 | Artificial Neural Networks | [Brilliant](https://brilliant.org/courses/artificial-neural-networks/) | Paid | No |
 | Computer Memory | [Brilliant](https://brilliant.org/courses/memory/) | Paid | No |
 | Machine Learning | [Brilliant](https://brilliant.org/courses/machine-learning/) | Paid | No |
-| 
  
  ### Larger courses
 | Course | Location | Paid/free | Certified | Started | Completed |
