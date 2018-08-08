@@ -38,6 +38,7 @@ and investigation.
 | Matplotlib and seaborn |
 | Advanced use of git (rebasing, squashing, soft and hard pushes etc.) |
 | Versioning and releases of python packages |
+| Python GUIs and graphics |
 ## Books for study
 
 * 'Fluent Python: Clear, Concise, and Effective Programming' by Luciano Ramalho
