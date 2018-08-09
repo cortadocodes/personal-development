@@ -10,4 +10,6 @@ books="$docs/_books.md"
 courses="$docs/_courses.md"
 certification="$docs/_certifications.md"
 
-cat $overview $topics_overview $books $proposed_projects $courses $certification > ../README.md
+readme="$repository_root/README.md"
+
+cat $overview $topics_overview $books $proposed_projects $courses $certification > $readme
