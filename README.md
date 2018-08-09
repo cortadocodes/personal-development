@@ -44,6 +44,7 @@ This is the list of topics I have identified for further study and investigation
 | Python GUIs and graphics | 4 |
 | Spark and Hadoop | 4 |
 | ElasticSearch | 4 |
+| Airflow | 4 |
 ## Books for study
 
 * 'Fluent Python: Clear, Concise, and Effective Programming' by Luciano Ramalho
