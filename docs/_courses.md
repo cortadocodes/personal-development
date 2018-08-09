@@ -10,10 +10,10 @@
 | GCP - Security, Backup & Recovery | [QwikLabs](https://qwiklabs.com/home?locale=en) | Paid | Yes |
 | GCP - Websites & App Dev | [QwikLabs](https://qwiklabs.com/home?locale=en) | Paid | Yes |
 | GCP - Machine Learning | [QwikLabs](https://qwiklabs.com/home?locale=en) | Paid | Yes |
-| How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | Yes | 05-08-2018 | 09-08-2018 |
-| Software Development Process | [Udacity](https://eu.udacity.com/course/software-development-process--ud805) | Free | Yes |
-| Intro to Computer Science | [Udacity](https://eu.udacity.com/course/intro-to-computer-science--cs101) | Free | Yes |
-| Intro to Machine Learning | [Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free | Yes |
+| How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 05-08-2018 | 09-08-2018 |
+| Software Development Process | [Udacity](https://eu.udacity.com/course/software-development-process--ud805) | Free | No |
+| Intro to Computer Science | [Udacity](https://eu.udacity.com/course/intro-to-computer-science--cs101) | Free | No |
+| Intro to Machine Learning | [Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free | No |
 | Computer Science Fundamentals | [Brilliant](https://brilliant.org/courses/computer-science-fundamentals/) | Paid | No |
 | Computer Science Algorithms | [Brilliant](https://brilliant.org/courses/computer-science-algorithms/) | Paid | No |
 | Artificial Neural Networks | [Brilliant](https://brilliant.org/courses/artificial-neural-networks/) | Paid | No |
