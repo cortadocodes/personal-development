@@ -1,5 +1,6 @@
 # Git
-Topics for study:
+
+## Topics for study:
 * Local basics (`init`, `log`, `add`, `commit`, `diff`, `status`, `checkout`, `branch`, `merge`, merge conflicts)
 * Remotes (`push`, `pull`, `remote`, `clone`, `fetch`)
 * Github (forking, pull requests, general collaboration)
@@ -7,3 +8,7 @@ Topics for study:
 * Resets (soft and hard)
 * Rebasing
 * Squashing
+
+## Courses:
+* [Udacity: How to use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775). Find my 
+reflections from the course [here](https://github.com/cortadocodes/course-udacity-how-to-use-git-and-github/).
