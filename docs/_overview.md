@@ -1,6 +1,6 @@
 # Personal development - Marcus Lugg (cortadocodes)
 ## Overview
-This repository documents my personal development as a Python programmer. It includes:
+This repository documents my personal development as a software engineer and Python programmer. It includes:
 * Topics I've identified as important to study and practice
 * Details of books I intend to read
 * Details of courses I intend to take
