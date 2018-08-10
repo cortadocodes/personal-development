@@ -5,3 +5,4 @@
 | `git diff --staged` | Compare the staging area (index) to the last commit (same as `git diff --cached`) | [Git](https://git-scm.com/docs/git-diff) |
 | `git fetch origin` | Update the local copy of the remote branch (e.g. `origin/master`). Can be followed by `git merge master origin/master` to have the same effect as `git pull origin master` |
 | `git rev-parse --show-toplevel` | Get the absolute path to the top level (root) directory of a git repository | [Git](https://git-scm.com/docs/git-rev-parse)
+| `git reset --hard HEAD^` | Remove the last commit | 
