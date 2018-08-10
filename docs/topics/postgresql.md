@@ -11,4 +11,4 @@ PostgreSQL.
 
 Some places to start:
 * [PostgreSQL Tutorial](http://www.postgresqltutorial.com)
-* [EnterpriseDV Tutorial](https://www.enterprisedb.com/free-postgres-training)
+* [EnterpriseDB Tutorial](https://www.enterprisedb.com/free-postgres-training)
