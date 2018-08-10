@@ -8,6 +8,7 @@
 * Resets (soft and hard)
 * Rebasing
 * Squashing
+* Sub-modules
 
 ## Courses:
 * [Udacity: How to use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775). Find my 
