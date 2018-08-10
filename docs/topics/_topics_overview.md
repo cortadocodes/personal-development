@@ -4,7 +4,7 @@ This is the list of topics I have identified for further study and investigation
 | Topic              | Priority | Addressed | Details |
 | :----------------- | :-------:| :-------: | :----------------------------: |
 | Advanced use of git (rebasing, squashing, soft and hard pushes etc.) | 0 |  | [Here](/docs/topics/git.md) |
-| SQL (one of the major flavours) | 1 |
+| PostgreSQL | 1 |  | [Here](/docs/topics/postgresql.md) |
 | Creating, hosting and interacting with databases | 1 |
 | Interacting with and building APIs (e.g. django) | 1 | 
 | Bash and shell control in depth | 1 |  | [Here](/docs/topics/bash.md) |
