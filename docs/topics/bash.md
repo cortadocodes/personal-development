@@ -9,3 +9,4 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 * Proper use of `grep`
 * Reading in user input
 * The intricacies of bash and shell variables
+* File and directory manipulation (e.g. checking if a directory exists, using the `find` command)
