@@ -77,7 +77,7 @@ This is the list of topics I have identified for further study and investigation
 | Software Development Process | [Udacity](https://eu.udacity.com/course/software-development-process--ud805) | Free | No |
 | Intro to Computer Science | [Udacity](https://eu.udacity.com/course/intro-to-computer-science--cs101) | Free | No |
 | Intro to Machine Learning | [Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free | No |
-| Computer Science Fundamentals | [Brilliant](https://brilliant.org/courses/computer-science-fundamentals/) | Paid | No |
+| Computer Science Fundamentals | [Brilliant](https://brilliant.org/courses/computer-science-fundamentals/) | Paid | No | 10-08-2018 | |
 | Computer Science Algorithms | [Brilliant](https://brilliant.org/courses/computer-science-algorithms/) | Paid | No |
 | Artificial Neural Networks | [Brilliant](https://brilliant.org/courses/artificial-neural-networks/) | Paid | No |
 | Computer Memory | [Brilliant](https://brilliant.org/courses/memory/) | Paid | No |
