@@ -29,6 +29,7 @@ This is the list of topics I have identified for further study and investigation
 | Hosting webservers using e.g. Nginx | 3 |
 | Continuous integration and deployment; docker | 3 |
 | Machine learning libraries | 3 |
+| Cybersecurity basics for engineers | 4 |
 | "Hypothesis" company tests | 4 |
 | Python GUIs and graphics | 4 |
 | Kubernetes | 4 | 
