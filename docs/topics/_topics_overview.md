@@ -27,10 +27,11 @@ This is the list of topics I have identified for further study and investigation
 | Use of PyCharm in depth | 2 |
 | Use of vim in depth | 2 |
 | Hosting webservers using e.g. Nginx | 3 |
-| Continuous integration and deployment | 3 |
+| Continuous integration and deployment; docker | 3 |
 | Machine learning libraries | 3 |
 | "Hypothesis" company tests | 4 |
 | Python GUIs and graphics | 4 |
+| Kubernetes | 4 | 
 | Spark and Hadoop | 4 |
 | ElasticSearch | 4 |
 | Airflow | 4 |
