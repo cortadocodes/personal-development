@@ -12,6 +12,7 @@ This is the list of topics I have identified for further study and investigation
 | Google cloud platform | 1 |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Testing and mocking | 1 |
+| Python `requests` library | 1 |
 | Web scraping | 1 |
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |

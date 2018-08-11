@@ -5,6 +5,7 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 
 ## Topics for study:
 * `if else` and `case` statements
+* Booleans
 * Comparing different variable types (e.g. less than, more than, equal to)
 * `for` loops
 * Piping outputs of commands to other commands
@@ -20,6 +21,8 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 * Multi-line string inputs
 * Use of `chmod`
 * Arguments and flags for `echo`, `read`, `export`
+* `printf` vs `echo`
+* Tests in bash
 
 Some places to start:
 * [Writing shell scripts](https://medium.com/tech-tajawal/writing-shell-scripts-the-beginners-guide-4778e2c4f609)
