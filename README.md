@@ -23,13 +23,14 @@ This is the list of topics I have identified for further study and investigation
 | Bash and shell control in depth | 1 |  | [Here](/docs/topics/bash.md) |
 | Google cloud platform | 1 |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
+| Python decorators | 1 |
 | Testing and mocking | 1 |
 | Python `requests` library | 1 |
 | Web scraping | 1 |
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |
 | Matplotlib and seaborn | 1 |
-| Python packaging in depth | 1 |
+| Python packaging in depth | 1 |  | [Here](/docs/topics/packaging.md) |
 | NoSQL databases | 2 |
 | Context managers | 2 |
 | Mapping | 2 |
