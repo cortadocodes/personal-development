@@ -75,11 +75,11 @@ This is the list of topics I have identified for further study and investigation
 | GCP - Security, Backup & Recovery | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
 | GCP - Websites & App Dev | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
 | GCP - Machine Learning | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
-| How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 05-08-2018 | 09-08-2018 |
+| How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 2018-08-05 | 2018-08-09 |
 | Software Development Process | [Udacity](https://eu.udacity.com/course/software-development-process--ud805) | Free | No |
 | Intro to Computer Science | [Udacity](https://eu.udacity.com/course/intro-to-computer-science--cs101) | Free | No |
 | Intro to Machine Learning | [Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free | No |
-| Computer Science Fundamentals | [Brilliant](https://brilliant.org/courses/computer-science-fundamentals/) | Subscription | No | 10-08-2018 | |
+| Computer Science Fundamentals | [Brilliant](https://brilliant.org/courses/computer-science-fundamentals/) | Subscription | No | 2018-08-10 | |
 | Computer Science Algorithms | [Brilliant](https://brilliant.org/courses/computer-science-algorithms/) | Subscription | No |
 | Artificial Neural Networks | [Brilliant](https://brilliant.org/courses/artificial-neural-networks/) | Subscription | No |
 | Computer Memory | [Brilliant](https://brilliant.org/courses/memory/) | Subscription | No |
