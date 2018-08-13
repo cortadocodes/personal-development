@@ -5,7 +5,8 @@ This repository documents my personal development as a software engineer and Pyt
 * Details of books I intend to read
 * Details of courses I intend to take
 * Proposed projects to hone my skills
-* Best practices and useful commands I've found along the way (e.g. commit message formats or ideal package structures) 
+* [Best practices](/docs/best_practices) and [useful commands](/docs/useful_commands) I've found along the way (e.g. commit 
+message formats or ideal package structures)
 * Open questions I have
 
 Together, these form a plan and a measure of my progress; as such, the repository will be added to, changed and 
