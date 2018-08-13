@@ -10,5 +10,7 @@ PostgreSQL.
 * Setting up and maintaining a PostgreSQL instance in the cloud
 
 Some places to start:
-* [PostgreSQL Tutorial](http://www.postgresqltutorial.com)
-* [EnterpriseDB Tutorial](https://www.enterprisedb.com/free-postgres-training)
+* [Installing and starting PostgreSQL](http://exponential.io/blog/2015/02/21/install-postgresql-on-mac-os-x-via-brew/)
+* [PostgreSQL tutorial for Mac](https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb)
+* [PostgreSQL tutorial](http://www.postgresqltutorial.com)
+* [EnterpriseDB tutorial](https://www.enterprisedb.com/free-postgres-training)
