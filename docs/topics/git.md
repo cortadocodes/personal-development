@@ -15,6 +15,7 @@
 | Manipulating git history (amending commit messages; editing, reordering and removing previous commits) | Pro Git book | Yes |
 | The meaning of `^` and `~` in relation to `HEAD` |  |  |
 | Tags/releases | Pro Git book | Yes |
+| Commit hooks |  |  |
 
 ## Courses:
 * [Udacity: How to use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
