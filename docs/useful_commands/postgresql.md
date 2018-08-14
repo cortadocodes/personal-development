@@ -1,11 +1,29 @@
 # Useful postgreSQL commands
 
+## bash commands
 | Command | Description | Reference |
 | :------ | :---------- | :-------- |
 | `pg_ctl -D /usr/local/var/postgres start` | Start posgreSQL server |  | 
-| `psql postgres` | Start the `psql` utility with user `postgres` |  |
-| `\du` | Get list of roles/users and attributes |  |
-| `CREATE ROLE username WITH LOGIN PASSWORD 'quoted password';` or `createuser username` | Create a user |  |
-| `\password username` | Set the password for user `username` |  |
-| `ALTER ROLE username CREATEDB;` | Add an attribute to a user |  |
+| `psql user` | Start the `psql` utility with user `user` (starts with default user if no user argument) |  |
+| `postgres` | Execute the SQL server itself |  |
+| `createuser user` | Create user `user` |  |
+| `createdb database` | Create database `database` |  |
+| `dropuser user` | Delete user `user` |  |
+| `dropdb database` | Delete database `database` |  |
+
+## psql commands
+| Command | Description | Reference |
+| :------ | :---------- | :-------- |
+| `\du` | List roles/users and their attributes |  |
+| `\dt` | List tables in a database |  |
+| `\db` | List table spaces |  |
+| `\list` | List databases |  |
+| `\connect database` | Connect to `database` |  |
 | `\q` | Quit the `psql` prompt |  |
+| `\password user` | Set the password for user `user` |  |
+| `CREATE ROLE username WITH LOGIN PASSWORD 'quoted password';` or `createuser username` | Create a user |  |
+| `ALTER ROLE user CREATEDB;` | Add an attribute to a user |  |
+| `GRANT ALL PRIVILEGES ON DATABASE database TO user;` | Allow user access to all privileges for a database |  |
+| `ALTER DATABASE database_name RENAME TO new_database_name;` | Rename a database |  |
+| `DROP DATABASE database;` | Delete database `database` |  |
+Note that the capitals used above are conventional and not required for the commands to work.
