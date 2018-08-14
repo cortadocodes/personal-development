@@ -1,7 +1,7 @@
 # Git
 
 | Topic(s) | Resource | Addressed |
-| :------- | :------- | --------- |
+| :------- | :------- | :-------: |
 | Local basics (`init`, `log`, `add`, `commit`, `diff`, `status`, `checkout`, `branch`, `merge`, merge conflicts) | Udacity course | Yes |
 | Configuring and inspecting remotes (`remote add`, `remote rm`, `remote rename`, `remote show`) | Udacity course, ProGit book | Yes |
 | Using remotes (`push`, `pull`, `fetch`, `clone`) | Udacity course | Yes |
