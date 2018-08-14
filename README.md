@@ -1,10 +1,10 @@
 # Personal development - Marcus Lugg (cortadocodes)
 ## Overview
 This repository documents my personal development as a software engineer and Python programmer. It includes:
-* Topics I've identified as important to study and practice
-* Details of books I intend to read
-* Details of courses I intend to take
-* Proposed projects to hone my skills
+* [Topics I've identified as important](#topics-for-study) to study and practice
+* Details of [books I intend to read](/#books-for-study)
+* Details of [courses I intend to take](/#possible-courses)
+* [Proposed projects](/#proposed-projects) to hone my skills
 * [Best practices](/docs/best_practices) and [useful commands](/docs/useful_commands) I've found along the way (e.g. commit 
 message formats or ideal package structures)
 * Open questions I have
@@ -16,7 +16,7 @@ This is the list of topics I have identified for further study and investigation
 
 | Topic              | Priority | Addressed | Details |
 | :----------------- | :-------:| :-------: | :----------------------------: |
-| Advanced use of git (rebasing, squashing, soft and hard pushes etc.) | 0 |  | [Here](/docs/topics/git.md) |
+| Advanced use of `git` (rebasing, squashing, soft and hard pushes etc.) | 0 |  | [Here](/docs/topics/git.md) |
 | PostgreSQL | 1 |  | [Here](/docs/topics/postgresql.md) |
 | Creating, hosting and interacting with databases | 1 |
 | CSV vs parquet vs pickle files | 1 | 
@@ -30,7 +30,7 @@ This is the list of topics I have identified for further study and investigation
 | Web scraping | 1 |
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |
-| Matplotlib and seaborn | 1 |
+| `matplotlib` and `seaborn` | 1 |
 | Python packaging in depth | 1 |  | [Here](/docs/topics/packaging.md) |
 | NoSQL databases | 2 |
 | Context managers | 2 |

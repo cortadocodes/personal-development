@@ -3,7 +3,7 @@ This is the list of topics I have identified for further study and investigation
 
 | Topic              | Priority | Addressed | Details |
 | :----------------- | :-------:| :-------: | :----------------------------: |
-| Advanced use of git (rebasing, squashing, soft and hard pushes etc.) | 0 |  | [Here](/docs/topics/git.md) |
+| Advanced use of `git` (rebasing, squashing, soft and hard pushes etc.) | 0 |  | [Here](/docs/topics/git.md) |
 | PostgreSQL | 1 |  | [Here](/docs/topics/postgresql.md) |
 | Creating, hosting and interacting with databases | 1 |
 | CSV vs parquet vs pickle files | 1 | 
@@ -17,7 +17,7 @@ This is the list of topics I have identified for further study and investigation
 | Web scraping | 1 |
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |
-| Matplotlib and seaborn | 1 |
+| `matplotlib` and `seaborn` | 1 |
 | Python packaging in depth | 1 |  | [Here](/docs/topics/packaging.md) |
 | NoSQL databases | 2 |
 | Context managers | 2 |
