@@ -21,9 +21,10 @@
 | `\connect database` | Connect to `database` |  |
 | `\q` | Quit the `psql` prompt |  |
 | `\password user` | Set the password for user `user` |  |
-| `CREATE ROLE username WITH LOGIN PASSWORD 'quoted password';` or `createuser username` | Create a user |  |
+| `CREATE ROLE username WITH LOGIN PASSWORD 'quoted password';` | Create a user |  |
 | `ALTER ROLE user CREATEDB;` | Add an attribute to a user |  |
 | `GRANT ALL PRIVILEGES ON DATABASE database TO user;` | Allow user access to all privileges for a database |  |
 | `ALTER DATABASE database_name RENAME TO new_database_name;` | Rename a database |  |
 | `DROP DATABASE database;` | Delete database `database` |  |
+
 Note that the capitals used above are conventional and not required for the commands to work.
