@@ -23,6 +23,7 @@ This is the list of topics I have identified for further study and investigation
 | Interacting with and building APIs (e.g. django) | 1 | 
 | Bash and shell control in depth | 1 |  | [Here](/docs/topics/bash.md) |
 | Google cloud platform | 1 |
+| The basics of Go | 1 |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
 | Testing and mocking | 1 |
