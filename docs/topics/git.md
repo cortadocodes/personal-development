@@ -6,12 +6,10 @@
 | Configuring and inspecting remotes (`remote add`, `remote rm`, `remote rename`, `remote show`) | Udacity course, "Pro Git" | Yes |
 | Using remotes (`push`, `pull`, `fetch`, `clone`) | Udacity course | Yes |
 | Github (forking, pull requests, general collaboration) | Udacity course, past experience | Yes |
-| Force pushing and pulling |  |  |
-| Resets (soft and hard) |  |  |
+| Resets (soft and hard) | "Pro Git" | Yes |
 | Rebasing | "Pro Git"| Yes |
 | Interactive rebasing and squashing | "Pro Git" | Yes |
-| Sub-modules |  |  |
-| `git stash` |  |  |
+| `git stash` | "Pro Git" | Yes |
 | Manipulating git history (amending commit messages; editing, reordering and removing previous commits) | "Pro Git" | Yes |
 | The meaning of `^` and `~` in relation to a commit | "Pro Git" | Yes |
 | Tags/releases | "Pro Git" | Yes |
