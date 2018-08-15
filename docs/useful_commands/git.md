@@ -7,4 +7,10 @@
 | `git rev-parse --show-toplevel` | Get the absolute path to the top level (root) directory of a git repository | [Git](https://git-scm.com/docs/git-rev-parse)
 | `git reset --hard HEAD^` | Remove the last commit |
 | `git log --grep keyword` | Show only the commits containing `keyword` in the commit message | "Pro Git" |
-| `git log --decorate` | Show the positions of all pointers and tags in the local branch's commit history | "Pro Git"
+| `git log --decorate` | Show the positions of all pointers and tags in the local branch's commit history | "Pro Git" |
+| `git reflog` | Show the position of each commit or checkout in relation to HEAD | "Pro Git" |
+| `git show HEAD@{n}` | See the commit at the `nth` previous position of HEAD | "Pro Git" |
+| `git show branch@{n.time_period.ago}` | Show the state of `branch` at a given point in time (e.g. `1.week.ago`, `3.hours.ago` or even  `yesterday`) | "Pro Git" |
+| `git log -g` | Get the git reflog formatted in the same way as the git log | "Pro Git" |
+| `commit_id^i` | Refers to the `ith` parent of the commit with hash `commit_id` for `0 <= i <= n`, where `n` is the number of parents the commit has and `i == 0` refers to the commit itself. The first parent is the branch checked out when merging (the branch merged in to) while the rest are the commits of the branches merged in | "Pro Git" |
+| `commit_id~i` | Refers to the `ith` successive parent of the commit with hash `commit_id` in the sense that e.g. `ig == 3` refers to the parent of the parent of the parent of the commit | "Pro Git" |
