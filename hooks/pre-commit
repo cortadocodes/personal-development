@@ -9,3 +9,8 @@ repository_root="$(git rev-parse --show-toplevel)"
 bash "$repository_root/scripts/generate_readme.sh"
 git add "$repository_root/README.md"
 echo "Root README auto-generated and staged."
+
+# Copy all hooks in personal-development/hooks to .git/hooks/ on each
+# commit so editing them updates the version that is run by git (they
+# will still need to be manually copied to .git/hooks/ the first time)
+cp "$repository_root/hooks/*" "$repository_root/.git/hooks/"
