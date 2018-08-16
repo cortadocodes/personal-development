@@ -14,14 +14,14 @@ improved over time.
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
-| Topic              | Priority | Addressed | Details |
-| :----------------- | :-------:| :-------: | :----------------------------: |
-| Advanced use of `git` (rebasing, squashing, soft and hard pushes etc.) | 0 |  | [Here](/docs/topics/git.md) |
-| PostgreSQL | 1 |  | [Here](/docs/topics/postgresql.md) |
+| Topic              | Priority | Details | Addressed |
+| :----------------- | :-------:| :-----: | :-------: |
+| Advanced use of `git` (rebasing, squashing, soft and hard pushes etc.) | 0 | [Here](/docs/topics/git.md) | Yes |
+| PostgreSQL | 1 | [Here](/docs/topics/postgresql.md) |
 | Creating, hosting and interacting with databases | 1 |
 | CSV vs parquet vs pickle files | 1 | 
 | Interacting with and building APIs (e.g. django) | 1 | 
-| Bash and shell control in depth | 1 |  | [Here](/docs/topics/bash.md) |
+| Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) |
 | Google cloud platform | 1 |
 | The basics of Go | 1 |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
@@ -32,7 +32,7 @@ This is the list of topics I have identified for further study and investigation
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |
 | `matplotlib` and `seaborn` | 1 |
-| Python packaging in depth | 1 |  | [Here](/docs/topics/packaging.md) |
+| Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
 | Encoding | 1 |
 | NoSQL databases | 2 |
 | Context managers | 2 |
