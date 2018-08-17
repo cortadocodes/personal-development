@@ -21,7 +21,7 @@ This is the list of topics I have identified for further study and investigation
 | `matplotlib` and `seaborn` | 1 |
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
 | Encoding | 1 |
-| NoSQL databases | 2 |
+| NoSQL databases; mongoDB | 2 |
 | Context managers | 2 |
 | Mapping | 2 |
 | `pandas.groupby` objects further in depth | 2 |
@@ -40,3 +40,5 @@ This is the list of topics I have identified for further study and investigation
 | Spark and Hadoop | 4 |
 | ElasticSearch | 4 |
 | Airflow | 4 |
+| Scala | 4 |
+| Kafka | 4 |
