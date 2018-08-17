@@ -12,7 +12,7 @@
 | Manipulating git history (amending commit messages; editing, reordering and removing previous commits) | "Pro Git" | Yes |
 | `git stash` | "Pro Git" | Yes |
 | The meaning of `^` and `~` in relation to a commit | "Pro Git" | Yes |
-| Tags/releases | "Pro Git" | Yes |
+| Tags/releases | "Pro Git", [SemVer](https://semver.org) | Yes |
 | Commit hooks | "Pro Git"  | Yes |
 
 ## Courses:
