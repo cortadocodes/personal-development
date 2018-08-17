@@ -11,6 +11,7 @@
 | `createdb database` | Create database `database` |  |
 | `dropuser user` | Delete user `user` |  |
 | `dropdb database` | Delete database `database` |  |
+| `pg_restore -U user -d database_name path` | Load data into a database `database_name` from `path` with user `user` |
 
 ## psql commands
 | Command | Description | Reference |
@@ -27,5 +28,6 @@
 | `GRANT ALL PRIVILEGES ON DATABASE database TO user;` | Allow user access to all privileges for a database |  |
 | `ALTER DATABASE database_name RENAME TO new_database_name;` | Rename a database |  |
 | `DROP DATABASE database;` | Delete database `database` |  |
+| `select version();` | Show the version of PostgreSQL installed |  |
 
 Note that the capitals used above are conventional and not required for the commands to work.
