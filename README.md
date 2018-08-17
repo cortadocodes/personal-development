@@ -101,6 +101,6 @@ This is the list of topics I have identified for further study and investigation
 | Machine Learning for Data Scientists | [Udacity nanodegree](https://eu.udacity.com/course/data-scientist-nanodegree--nd025) | £1598 | Yes |
 ## Proposed certifications and qualifications
 
-| Certification | Syllabus location | Achieved |
-| ------------- | ----------------- | -------- |
-| QwikLabs GCS certifications
+| Certification | Provider | Syllabus | Achieved |
+| :------------ | :------- | :--------| :------: |
+| [GCP Essentials](https://qwiklabs.com/public_profiles/fa0e8d28-40f8-426d-9996-72183ee40853) | QwikLabs | [Here](https://qwiklabs.com/quests/23) | 2018-08-17 |
