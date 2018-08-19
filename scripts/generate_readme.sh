@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# This script auto-generates the root README for the repository by
+# concatenating the component docs files.
+
 repository_root="$(git rev-parse --show-toplevel)"
 docs="$repository_root/docs"
 
