@@ -1,9 +1,6 @@
 # Useful pandas commands
-| Command | Description | Reference |
-| ------- | ----------- | --------- |
 
-
-Pandas config for jupyter notebooks:
+Useful `pandas` config for Jupyter notebooks:
 ```
 pd.set_option('display.height', 1000)
 pd.set_option('display.max_rows', 500)
