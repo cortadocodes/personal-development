@@ -27,8 +27,7 @@ This is the list of topics I have identified for further study and investigation
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
 | Testing and mocking | 1 |
-| Python `requests` library | 1 |
-| Web scraping | 1 |
+| Web scraping with `requests` and `beautifulsoup4` | 1 |
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |
 | `matplotlib` and `seaborn` | 1 |
