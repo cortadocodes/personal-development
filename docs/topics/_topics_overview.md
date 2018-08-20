@@ -1,10 +1,10 @@
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
-| Topic              | Priority | Details | Addressed |
-| :----------------- | :-------:| :-----: | :-------: |
-| Advanced use of `git` (rebasing, squashing, soft and hard pushes etc.) | 0 | [Here](/docs/topics/git.md) | Yes |
-| PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) |
+| Topic              | Priority | Details | Status |
+| :----------------- | :-------:| :-----: | :----: |
+| Advanced use of `git` (rebasing, squashing, soft and hard pushes etc.) | 0 | [Here](/docs/topics/git.md) | Completed |
+| PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
 | CSV vs parquet vs pickle files | 1 | 
 | Interacting with and building APIs (e.g. django) | 1 | 
 | Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) |
@@ -13,7 +13,7 @@ This is the list of topics I have identified for further study and investigation
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
 | Testing and mocking | 1 |
-| Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) |
+| Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |
 | `matplotlib` and `seaborn` | 1 |
