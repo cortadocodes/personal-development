@@ -33,6 +33,7 @@ This is the list of topics I have identified for further study and investigation
 | `matplotlib` and `seaborn` | 1 |
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
 | Encoding | 1 |
+| Error handling | 1 |
 | NoSQL databases; mongoDB | 2 |
 | Context managers | 2 |
 | Mapping | 2 |
