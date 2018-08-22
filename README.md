@@ -1,8 +1,8 @@
 # Personal development - Marcus Lugg (cortadocodes)
 ## Overview
 This repository documents my personal development as a software engineer and Python programmer. It includes:
-* [Topics](#topics-for-study) I've identified as important to study and practice
 * [Projects](#proposed-projects) I've proposed to hone my skills
+* [Topics](#topics-for-study) I've identified as important to study and practice
 * [Courses](#possible-courses) I plan to take
 * [Books](#books-for-study) I intend to read
 * [Certifications](#certifications-and-qualifications) I gain as I work through my plan
@@ -12,6 +12,14 @@ message formats or ideal package structures)
 
 Together, these form a plan and a measure of my progress; as such, this repository will be added to, changed and 
 improved over time.
+## Proposed projects
+
+| Project | Location | Status |
+| :------ | :------- | :----: |
+| Automate my expenses | [expenses-automation](/projects/expenses_automation) | Not started |
+| Hack my Dyson air purifier | [hack-dyson-purifier](/projects/hack_dyson_purifier) | Not started |
+| Scraped lyric generator using Markov chain | [scraped-lyric-generator](https://github.com/cortadocodes/scraped-lyric-generator) | Active |
+| Scrape engineering job listings | [scrape-job-listings](/projects/scrape_job_listings) | Not started |
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
@@ -27,7 +35,7 @@ This is the list of topics I have identified for further study and investigation
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
 | Python classes in depth (including @classmethod and @staticmethod) | 1 |
-| Testing and mocking | 1 |
+| Testing and mocking with pytest in depth | 1 |
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |
@@ -57,14 +65,6 @@ This is the list of topics I have identified for further study and investigation
 | Scala | 4 |
 | Kafka | 4 |
 | Python `multiprocessing` library | 4 |
-## Proposed projects
-
-| Project | Location | Status |
-| :------ | :------- | :----: |
-| Automate my expenses | [expenses-automation](/projects/expenses_automation) | Not started |
-| Hack my Dyson air purifier | [hack-dyson-purifier](/projects/hack_dyson_purifier) | Not started |
-| Scraped lyric generator using Markov chain | [scraped-lyric-generator](https://github.com/cortadocodes/scraped-lyric-generator) | Active |
-| Scrape engineering job listings | [scrape-job-listings](/projects/scrape_job_listings) | Not started |
 ## Possible courses
 
 ### Smaller courses
