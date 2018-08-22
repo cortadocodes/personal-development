@@ -41,7 +41,7 @@ This is the list of topics I have identified for further study and investigation
 | Sphinx documentation | 1 |
 | `matplotlib` and `seaborn` | 1 |
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
-| Virtual environments | 1 | [Here](/docs/topics/virtual_environments.md)
+| Virtual environments | 1 | [Here](/docs/topics/virtual_environments.md) | Completed |
 | Encoding | 1 |
 | Error handling | 1 |
 | NoSQL databases; mongoDB | 2 |
