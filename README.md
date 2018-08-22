@@ -25,7 +25,7 @@ This is the list of topics I have identified for further study and investigation
 
 | Topic              | Priority | Details | Status |
 | :----------------- | :-------:| :-----: | :----: |
-| Advanced use of `git` (rebasing, squashing, soft and hard pushes etc.) | 0 | [Here](/docs/topics/git.md) | Completed |
+| Advanced use of `git` (rebasing, squashing, tagging, hooks etc.) | 0 | [Here](/docs/topics/git.md) | Completed |
 | PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
 | CSV vs parquet vs pickle files | 1 | 
 | Interacting with and building APIs (e.g. django) | 1 | 
