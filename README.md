@@ -25,7 +25,8 @@ This is the list of topics I have identified for further study and investigation
 | Google cloud platform | 1 |
 | The basics of Go | 1 |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
-| Python decorators including @classmethod and @staticmethod | 1 |
+| Python decorators | 1 |
+| Python classes in depth (including @classmethod and @staticmethod) | 1 |
 | Testing and mocking | 1 |
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
 | Markdown vs reStructuredText | 1 |
