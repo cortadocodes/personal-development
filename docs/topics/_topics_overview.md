@@ -28,7 +28,7 @@ This is the list of topics I have identified for further study and investigation
 | Regex (theory and practical use) | 2 |
 | Hashes | 2 |
 | Versioning and releases of python packages | 2 |
-| Use of PyCharm in depth | 2 |
+| Use of PyCharm in depth | 2 | [Here](/docs/topics/pycharm.md) |
 | Use of vim in depth | 2 |
 | Hosting webservers using e.g. Nginx | 3 |
 | Continuous integration and deployment; docker | 3 |
