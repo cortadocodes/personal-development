@@ -4,13 +4,13 @@
 
 | Course | Location | Cost | Certified | Started | Completed |
 | :----- | :------- | :--- | :-------- | :------ | :-------- |
+| How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 2018-08-05 | 2018-08-09 |
 | Practical Deep Learning For Coders (Parts 1 and 2) | [fast.ai](http://course.fast.ai) | Free | No |
 | GCP - Infrastructure and DevOps | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG| Yes |
 | GCP - Big Data | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
 | GCP - Security, Backup & Recovery | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
 | GCP - Websites & App Dev | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
 | GCP - Machine Learning | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
-| How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 2018-08-05 | 2018-08-09 |
 | Software Development Process | [Udacity](https://eu.udacity.com/course/software-development-process--ud805) | Free | No |
 | Intro to Computer Science | [Udacity](https://eu.udacity.com/course/intro-to-computer-science--cs101) | Free | No |
 | Intro to Machine Learning | [Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free | No |
