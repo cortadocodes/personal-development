@@ -2,7 +2,7 @@
 
 ### Smaller courses
 
-| Course | Location | Cost | Certified | Started | Completed |
+| Course | Provider | Cost | Certified | Started | Completed |
 | :----- | :------- | :--- | :-------- | :------ | :-------- |
 | How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 2018-08-05 | 2018-08-09 |
 | Learn SQL | [Codecademy](https://www.codecademy.com/learn/learn-sql) | Subscription | No |
@@ -22,7 +22,7 @@
 | Machine Learning | [Brilliant](https://brilliant.org/courses/machine-learning/) | Subscription | No |
  
  ### Larger courses
-| Course | Location | Cost | Certified | Started | Completed |
+| Course | Provider | Cost | Certified | Started | Completed |
 | :----- | :------- | :-------- | :-------- | :------ | :-------- |
 | Programming for Data Science | [Udacity nanodegree](https://eu.udacity.com/course/programming-for-data-science-nanodegree--nd104) | £349 | Yes |
 | Become a Data Analyst | [Udacity nanodegree](https://eu.udacity.com/course/data-analyst-nanodegree--nd002) | £799 | Yes |
