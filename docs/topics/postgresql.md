@@ -7,6 +7,7 @@ PostgreSQL. I'll also cover SQL commands in more detail.
 
 | Topic(s) | Addressed |
 | :------- | :-------: |
+| Basic SQL commands | Yes |
 | SQL vs `pandas` | Yes |
 | Installing PostgreSQL | Yes |
 | Basic configuration with `psql` and `postgres`  | Yes |
@@ -33,6 +34,7 @@ PostgreSQL. I'll also cover SQL commands in more detail.
 | Querying a cloud-based PostgreSQL server |
 
 Resources:
+* [Codecademy SQL course](https://www.codecademy.com/learn/learn-sql)
 * [PostgreSQL vs. pandas — how to balance tasks between server and client side](https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677)
 * [Installing and starting PostgreSQL](http://exponential.io/blog/2015/02/21/install-postgresql-on-mac-os-x-via-brew/)
 * [PostgreSQL tutorial for Mac](https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb)
