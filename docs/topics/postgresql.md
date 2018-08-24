@@ -7,9 +7,10 @@ PostgreSQL. I'll also cover SQL commands in more detail.
 
 | Topic(s) | Addressed |
 | :------- | :-------: |
+| SQL vs `pandas` | Yes |
 | Installing PostgreSQL | Yes |
 | Basic configuration with `psql` and `postgres`  | Yes |
-| Managing databases with `psql` (creation, deletion, manipulation, data extraction etc.) |
+| Managing databases with `psql` (creation, delaetion, manipulation, data extraction etc.) |
 | Querying data |
 | Filtering data |
 | Joining multiple tables |
@@ -25,13 +26,16 @@ PostgreSQL. I'll also cover SQL commands in more detail.
 | Constraints in PostgreSQL |
 | PostreSQL utilities |
 | PostgreSQL strategies |
-| Interacting with PostgreSQL through python |
+| Optimising PostgreSQL configuration (e.g. memory allocation, default sorting algorithm etc.) |
+| Interacting with PostgreSQL through python (`psycopg2`?) |
 | Interacting with a local PostgreSQL server |
 | Setting up and maintaining a PostgreSQL instance in the cloud |
 | Querying a cloud-based PostgreSQL server |
 
 Resources:
+* [PostgreSQL vs. pandas — how to balance tasks between server and client side](https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677)
 * [Installing and starting PostgreSQL](http://exponential.io/blog/2015/02/21/install-postgresql-on-mac-os-x-via-brew/)
 * [PostgreSQL tutorial for Mac](https://www.codementor.io/engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb)
 * [PostgreSQL tutorial](http://www.postgresqltutorial.com)
 * [EnterpriseDB tutorial](https://www.enterprisedb.com/free-postgres-training)
+* [Tuning PostgreSQL configurations](https://pgtune.leopard.in.ua/#/)
