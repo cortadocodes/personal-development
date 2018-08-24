@@ -36,6 +36,7 @@ This is the list of topics I have identified for further study and investigation
 | Python decorators | 1 |
 | Python classes in depth (including @classmethod and @staticmethod) | 1 |
 | Testing and mocking with pytest in depth | 1 |
+| Principles of Test Driven Development (TDD) | 1 |
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
 | Markdown vs reStructuredText | 1 |
 | Sphinx documentation | 1 |
