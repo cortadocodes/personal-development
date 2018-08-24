@@ -13,4 +13,4 @@ echo "Root README auto-generated and staged."
 # Copy all hooks in personal-development/hooks to .git/hooks/ on each
 # commit so editing them updates the version that is run by git (they
 # will still need to be manually copied to .git/hooks/ the first time)
-cp -R "$repository_root/hooks/" "$repository_root/.git/hooks/"
+cp -R "$repository_root/scripts/hooks/" "$repository_root/.git/hooks/"
