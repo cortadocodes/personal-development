@@ -71,6 +71,7 @@ This is the list of topics I have identified for further study and investigation
 ## Possible courses
 
 ### Smaller courses
+These are generally shorter and lower cost courses.
 
 | Course | Provider | Cost | Certified | Started | Completed |
 | :----- | :------- | :--- | :-------- | :------ | :-------- |
@@ -79,11 +80,11 @@ This is the list of topics I have identified for further study and investigation
 | SQL: Analyzing Business Metrics | [Codecademy](https://www.codecademy.com/learn/sql-analyzing-business-metrics) | Subscription | No | 2018-08-25 | 2018-08-25
 | SQL: Table Transformation | [Codecademy](https://www.codecademy.com/learn/sql-table-transformation) | Subscription | No |
 | Practical Deep Learning For Coders (Parts 1 and 2) | [fast.ai](http://course.fast.ai) | Free | No |
-| GCP - Infrastructure and DevOps | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG| Yes |
-| GCP - Big Data | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
-| GCP - Security, Backup & Recovery | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
-| GCP - Websites & App Dev | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
-| GCP - Machine Learning | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG | Yes |
+| GCP - Infrastructure and DevOps | [QwikLabs](https://qwiklabs.com/home?locale=en) | PAYG| Yes |
+| GCP - Big Data | [QwikLabs](https://qwiklabs.com/home?locale=en) | PAYG | Yes |
+| GCP - Security, Backup & Recovery | [QwikLabs](https://qwiklabs.com/home?locale=en) | PAYG | Yes |
+| GCP - Websites & App Dev | [QwikLabs](https://qwiklabs.com/home?locale=en) | PAYG | Yes |
+| GCP - Machine Learning | [QwikLabs](https://qwiklabs.com/home?locale=en) | PAYG | Yes |
 | Software Development Process | [Udacity](https://eu.udacity.com/course/software-development-process--ud805) | Free | No |
 | Intro to Computer Science | [Udacity](https://eu.udacity.com/course/intro-to-computer-science--cs101) | Free | No |
 | Intro to Machine Learning | [Udacity](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free | No |
@@ -94,6 +95,8 @@ This is the list of topics I have identified for further study and investigation
 | Machine Learning | [Brilliant](https://brilliant.org/courses/machine-learning/) | Subscription | No |
  
  ### Larger courses
+ These are generally deeper and higher cost courses.
+ 
 | Course | Provider | Cost | Certified | Started | Completed |
 | :----- | :------- | :-------- | :-------- | :------ | :-------- |
 | Programming for Data Science | [Udacity nanodegree](https://eu.udacity.com/course/programming-for-data-science-nanodegree--nd104) | £349 | Yes |
