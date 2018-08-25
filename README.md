@@ -76,7 +76,7 @@ This is the list of topics I have identified for further study and investigation
 | :----- | :------- | :--- | :-------- | :------ | :-------- |
 | How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 2018-08-05 | 2018-08-09 |
 | Learn SQL | [Codecademy](https://www.codecademy.com/learn/learn-sql) | Subscription | No | 2018-08-23 | 2018-08-25 |
-| SQL: Analyzing Business Metrics | [Codecademy](https://www.codecademy.com/learn/sql-analyzing-business-metrics) | Subscription | No | 2018-08-25 |
+| SQL: Analyzing Business Metrics | [Codecademy](https://www.codecademy.com/learn/sql-analyzing-business-metrics) | Subscription | No | 2018-08-25 | 2018-08-25
 | SQL: Table Transformation | [Codecademy](https://www.codecademy.com/learn/sql-table-transformation) | Subscription | No |
 | Practical Deep Learning For Coders (Parts 1 and 2) | [fast.ai](http://course.fast.ai) | Free | No |
 | GCP - Infrastructure and DevOps | [QwikLabs](https://qwiklabs.com/home?locale=en) | Low, PAYG| Yes |
