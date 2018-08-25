@@ -73,14 +73,14 @@ This is the list of topics I have identified for further study and investigation
 ### Smaller courses
 These are generally shorter and lower cost courses.
 
-| Course | Provider | Cost | Certified | Started | Completed |
-| :----- | :------- | :--- | :-------- | :------ | :-------- |
-| How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 2018-08-05 | 2018-08-09 |
-| GCP Essentials Quest | [Qwiklabs](https://qwiklabs.com/quests/23) | Subscription | Yes |  | 2018-08-17 |
-| Learn SQL | [Codecademy](https://www.codecademy.com/learn/learn-sql) | Subscription | No | 2018-08-23 | 2018-08-25 |
-| SQL: Analyzing Business Metrics | [Codecademy](https://www.codecademy.com/learn/sql-analyzing-business-metrics) | Subscription | No | 2018-08-25 | 2018-08-25
+| Course | Provider | Cost | Certified | Completed |
+| :----- | :------- | :--- | :-------: | :-------: |
+| How to use Git and GitHub | [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775) | Free | No | 2018-08-09 |
+| GCP Essentials Quest | [Qwiklabs](https://qwiklabs.com/quests/23) | Subscription | Yes | 2018-08-17 |
+| Learn SQL | [Codecademy](https://www.codecademy.com/learn/learn-sql) | Subscription | No | 2018-08-25 |
+| SQL: Analyzing Business Metrics | [Codecademy](https://www.codecademy.com/learn/sql-analyzing-business-metrics) | Subscription | No | 2018-08-25
 | SQL: Table Transformation | [Codecademy](https://www.codecademy.com/learn/sql-table-transformation) | Subscription | No |
-| Computer Science Fundamentals | [Brilliant](https://brilliant.org/courses/computer-science-fundamentals/) | Subscription | No | 2018-08-10 | |
+| Computer Science Fundamentals | [Brilliant](https://brilliant.org/courses/computer-science-fundamentals/) | Subscription | No |
 | Computer Science Algorithms | [Brilliant](https://brilliant.org/courses/computer-science-algorithms/) | Subscription | No |
 | Computer Memory | [Brilliant](https://brilliant.org/courses/memory/) | Subscription | No |
 | Intro to Computer Science | [Udacity](https://eu.udacity.com/course/intro-to-computer-science--cs101) | Free | No |
