@@ -7,7 +7,6 @@ This is the list of topics I have identified for further study and investigation
 | PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
 | Virtual environments | 1 | [Here](/docs/topics/virtual_environments.md) | Completed |
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
-| Versioning and releases of python packages | 1 |
 | Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |

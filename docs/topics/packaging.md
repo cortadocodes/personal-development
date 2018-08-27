@@ -7,3 +7,4 @@
 | Creating executable Python applications using `argparse` and other libararies |
 | Good directory structures for projects |
 | Relative imports and the associated errors |
+| Versioning and releasing Python packages |
