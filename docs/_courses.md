@@ -10,6 +10,7 @@ These are generally shorter and lower cost courses.
 | Learn SQL | [Codecademy](https://www.codecademy.com/learn/learn-sql) | Subscription | No | 2018-08-25 |
 | SQL: Analyzing Business Metrics | [Codecademy](https://www.codecademy.com/learn/sql-analyzing-business-metrics) | Subscription | No | 2018-08-25
 | SQL: Table Transformation | [Codecademy](https://www.codecademy.com/learn/sql-table-transformation) | Subscription | No | 2018-08-26 |
+| Intro to Relational Databases | [Udacity](https://eu.udacity.com/course/intro-to-relational-databases--ud197) | Free | No |
 | Computer Science Fundamentals | [Brilliant](https://brilliant.org/courses/computer-science-fundamentals/) | Subscription | No |
 | Computer Science Algorithms | [Brilliant](https://brilliant.org/courses/computer-science-algorithms/) | Subscription | No |
 | Computer Memory | [Brilliant](https://brilliant.org/courses/memory/) | Subscription | No |

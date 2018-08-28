@@ -41,3 +41,4 @@ Resources:
 * [PostgreSQL tutorial](http://www.postgresqltutorial.com)
 * [EnterpriseDB tutorial](https://www.enterprisedb.com/free-postgres-training)
 * [Tuning PostgreSQL configurations](https://pgtune.leopard.in.ua/#/)
+* [Udacity course](https://eu.udacity.com/course/intro-to-relational-databases--ud197)
