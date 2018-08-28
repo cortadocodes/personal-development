@@ -7,3 +7,7 @@
 | Internet protocols
 | Authentication protocols |
 | Modification of user agent |
+| Scraping ethics and legality |
+
+Resources:
+* [Scraping tips and tricks](https://hackernoon.com/web-scraping-tutorial-with-python-tips-and-tricks-db070e70e071)
