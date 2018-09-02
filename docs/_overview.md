@@ -5,7 +5,7 @@ This repository documents my personal development as a software engineer and Pyt
 * [Topics](#topics-for-study) I've identified as important to study and practice
 * [Courses](#possible-courses) I plan to take
 * [Books](#books-for-study) I intend to read
-* [Certifications](#certifications-and-qualifications) I gain as I work through my plan
+* [Certifications](#certifications-qualifications-and-achievements) I gain as I work through my plan
 * [Best practices](/docs/best_practices) and [useful commands](/docs/useful_commands) I've found along the way (e.g. commit 
 message formats or ideal package structures)
 * [Questions](/docs/questions.md) I currently have
