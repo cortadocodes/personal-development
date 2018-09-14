@@ -46,7 +46,7 @@ This is the list of topics I have identified for further study and investigation
 | Google cloud platform in depth | 2 |
 | Interacting with and building APIs (e.g. django) | 2 | 
 | Context managers | 2 |
-| Regex (theory and practical use) | 3 |
+| Regex (theory and practical use) | 3 | [Here](/docs/topics/regular_expressions.md) | Active |
 | Continuous integration and deployment; docker | 3 |
 | Mapping | 3 |
 | Hashes | 3 |
