@@ -11,7 +11,7 @@ PostgreSQL. I'll also cover SQL commands in more detail.
 | SQL vs `pandas` | Yes |
 | Installing PostgreSQL | Yes |
 | Basic configuration with `psql` and `postgres`  | Yes |
-| Managing databases with `psql` (creation, delaetion, manipulation, data extraction etc.) |
+| Managing databases with `psql` (creation, deletion, manipulation, data extraction etc.) |
 | Querying data |
 | Filtering data |
 | Joining multiple tables |
@@ -25,7 +25,7 @@ PostgreSQL. I'll also cover SQL commands in more detail.
 | Managing tables |
 | PostgreSQL data types |
 | Constraints in PostgreSQL |
-| PostreSQL utilities |
+| PostgreSQL utilities |
 | PostgreSQL strategies |
 | Optimising PostgreSQL configuration (e.g. memory allocation, default sorting algorithm etc.) |
 | Interacting with PostgreSQL through python (`psycopg2`?) |
