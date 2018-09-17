@@ -12,15 +12,15 @@ PostgreSQL. I'll also cover SQL commands in more detail.
 | Installing PostgreSQL | Yes |
 | Basic configuration with `psql` and `postgres`  | Yes |
 | Managing databases with `psql` (creation, deletion, manipulation, data extraction etc.) |
-| Querying data |
-| Filtering data |
-| Joining multiple tables |
-| Grouping data |
+| Querying data | Yes |
+| Filtering data | Yes |
+| Joining multiple tables | Yes |
+| Grouping data | Yes |
 | Performing set operations |
 | Grouping sets |
 | Subqueries |
 | Modifying data |
-| PostgreSQL import and export |
+| PostgreSQL import and export | Yes |
 | Conditional expressions and operators |
 | Managing tables |
 | PostgreSQL data types |

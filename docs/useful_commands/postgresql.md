@@ -19,6 +19,7 @@
 | `\du` | List roles/users and their attributes |  |
 | `\dt` | List tables in a database |  |
 | `\db` | List table spaces |  |
+| `\d table` | Show schema for table `table` |
 | `\list` | List databases |  |
 | `\connect database` | Connect to `database` |  |
 | `\q` | Quit the `psql` prompt |  |
