@@ -2,7 +2,7 @@
 
 | Project | Location | Status |
 | :------ | :------- | :----: |
-| Automate my expenses | [expenses-automation](/projects/expenses_automation) | Not started |
+| Automate my finances | [finances-automation](https://github.com/cortadocodes/finances-automation) | Active |
 | Hack my Dyson air purifier | [hack-dyson-purifier](/projects/hack_dyson_purifier) | Not started |
 | Scraped lyric generator using Markov chain | [scraped-lyric-generator](https://github.com/cortadocodes/scraped-lyric-generator) | Active |
 | Scrape engineering job listings | [scrape-job-listings](/projects/scrape_job_listings) | Not started |
