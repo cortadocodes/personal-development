@@ -31,4 +31,29 @@
 | `DROP DATABASE database;` | Delete database `database` |
 | `select version();` | Show the version of PostgreSQL installed |
 
+## psycopg2 usage example
+```python
+import psycopg2
+
+
+# Connect to an existing database and open a cursor to perform database operations
+conn = psycopg2.connect(dbname='test', user='postgres')
+cur = conn.cursor()
+
+# Execute commands
+cur.execute("CREATE TABLE test (id serial PRIMARY KEY, num integer, data varchar);")
+cur.execute("INSERT INTO test (num, data) VALUES (%s, %s)", (100, "abc'def"))
+
+# Query the database
+cur.execute("SELECT * FROM test;")
+cur.fetchone() # Output is tuple: (1, 100, "abc'def")
+
+# Make the changes to the database persistent
+conn.commit()
+
+# Close communication with the database
+cur.close()
+conn.close()
+```
+
 Note that the capitals used above are conventional and not required for the commands to work.
