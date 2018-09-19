@@ -11,25 +11,18 @@ PostgreSQL. I'll also cover SQL commands in more detail.
 | SQL vs `pandas` | Yes |
 | Installing PostgreSQL | Yes |
 | Basic configuration with `psql` and `postgres`  | Yes |
-| Managing databases with `psql` (creation, deletion, manipulation, data extraction etc.) |
+| Managing databases with `psql` (creation, deletion, manipulation, data extraction etc.) | Yes |
 | Querying data | Yes |
 | Filtering data | Yes |
 | Joining multiple tables | Yes |
 | Grouping data | Yes |
-| Performing set operations |
-| Grouping sets |
-| Subqueries |
-| Modifying data |
+| Subqueries | Yes |
+| Modifying data | Yes |
 | PostgreSQL import and export | Yes |
-| Conditional expressions and operators |
-| Managing tables |
 | PostgreSQL data types |
 | Constraints in PostgreSQL |
-| PostgreSQL utilities |
-| PostgreSQL strategies |
-| Optimising PostgreSQL configuration (e.g. memory allocation, default sorting algorithm etc.) |
-| Interacting with PostgreSQL through python (`psycopg2`?) |
-| Interacting with a local PostgreSQL server |
+| Interacting with PostgreSQL through `psycopg2` | Yes |
+| Interacting with a local PostgreSQL server | Yes |
 | Setting up and maintaining a PostgreSQL instance in the cloud |
 | Querying a cloud-based PostgreSQL server |
 
@@ -42,3 +35,4 @@ Resources:
 * [EnterpriseDB tutorial](https://www.enterprisedb.com/free-postgres-training)
 * [Tuning PostgreSQL configurations](https://pgtune.leopard.in.ua/#/)
 * [Udacity course](https://eu.udacity.com/course/intro-to-relational-databases--ud197)
+* [`psycopg2` documentation](http://initd.org/psycopg/docs/index.html)
