@@ -1,4 +1,4 @@
-# Useful postgreSQL commands
+# Useful PostgreSQL commands
 
 ## bash commands
 | Command | Description |
@@ -7,6 +7,7 @@
 | `pg_ctl -D /usr/local/var/postgres stop` | Stop postgreSQL server |
 | `psql user` | Start the `psql` utility with user `user` (starts with default user if no user argument) |
 | `postgres` | Execute the SQL server itself |
+| `initdb -D database_storage_area` | Create a database cluster in `database_storage_area` |
 | `createuser user` | Create user `user` |
 | `createdb database` | Create database `database` |
 | `dropuser user` | Delete user `user` |
