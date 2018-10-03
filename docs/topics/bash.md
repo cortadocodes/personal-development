@@ -27,3 +27,4 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 Some places to start:
 * [Writing shell scripts](https://medium.com/tech-tajawal/writing-shell-scripts-the-beginners-guide-4778e2c4f609)
 * [Shebangs](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+* [Bash academy](https://www.bash.academy)
