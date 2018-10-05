@@ -18,3 +18,8 @@
 | `kill -9 PID` | Kill process `PID` |
 
 Colours in bash: [guide](https://gist.github.com/vratiu/9780109)
+
+## File descriptors
+* 0 - `stdin`
+* 1 - `stdout`
+* 2 - `stderr`
