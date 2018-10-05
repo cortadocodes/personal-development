@@ -16,6 +16,12 @@
 | `"${array[@]}"` | Expand items in an array |
 | `lsof -i :port` | Display process on `port` |
 | `kill -9 PID` | Kill process `PID` |
+| `$#` | Number of positional arguments |
+| `£?` | Exit code of last process |
+| `$OSTYPE` | OS type | 
+| `$USERNAME` | Logged-in username |
+| `$HOME` | Home directory path |
+| `$BASH_VERSION` | Shell version |
 
 Colours in bash: [guide](https://gist.github.com/vratiu/9780109)
 
@@ -35,6 +41,20 @@ substitute it in
 Note: bash variables can nearly always be put in double quotes (`""`) with no adverse effects, and can help avoid 
 catastrophic mistakes due to (perhaps unknown) spaces in variable values (such as accidentally deleting all files in 
 the home directory).
+
+## Truth values
+| Expression/type | Truth evaluation | Detail |
+| :-------------- | :--------------- | :----- |
+| `true` | `True` | Truth command |
+| `false` | `False` | Falseness command |
+| Empty string | `False` |
+| Non-empty string | `True` |
+| Positive or negative number, including 0 | `True` |
+| Uninitialised variable | `False` |
+| `"true"` | `True` | Just a string |
+| `"false"` | `True` | Just a string |
+| `$true` | `False` | Uninitialised variable |
+| `$false` | `False` | Uninitialised variable |
 
 ## Conditionals
 ### `if`
