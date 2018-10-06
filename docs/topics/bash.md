@@ -11,18 +11,18 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 | Booleans | Yes |
 | Comparing different variable types (e.g. less than, more than, equal to) | Yes |
 | `for` loops | Yes |
-| Piping outputs of commands to other commands |
+| Redirection and piping | Yes |
 | Difference between `>` and `>>` | Yes |
 | Proper use of `grep` |
 | Reading in user input | Yes |
-| The intricacies of bash, shell and environment variables | Yes |
+| The intricacies of bash, shell and environment variables (e.g. when to `export`) | Yes |
 | File and directory manipulation (e.g. checking if a directory exists, using the `find` command) |
 | Functions and positional arguments | Yes |
 | Aliases | Yes |
 | Multi-line string inputs |
 | Use of `chmod` | Yes |
-| Arguments and flags for `echo`, `read`, `export` |
-| `printf` vs `echo` |
+| Arguments and flags for `echo` | Yes |
+| `printf` vs `echo` | Yes |
 | Tests in bash |
 | Exit codes | Yes |
 
@@ -31,3 +31,4 @@ Resources:
 * [Shebangs](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 * [Linux/unix permissions](https://www.tutorialspoint.com/unix/unix-file-permission.htm)
 * [What is truth?](http://tldp.org/LDP/abs/html/testconstructs.html)
+* [Defining a variable with or without export](https://stackoverflow.com/questions/1158091/defining-a-variable-with-or-without-export)
