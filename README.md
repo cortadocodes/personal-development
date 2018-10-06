@@ -31,6 +31,7 @@ This is the list of topics I have identified for further study and investigation
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
 | Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) | Active |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
+| Regex (theory and practical use) | 1 | [Here](/docs/topics/regular_expressions.md) | Completed |
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
 | Python decorators | 1 |
 | Python classes in depth (including `@classmethod` and `@staticmethod`) | 1 |
@@ -46,7 +47,6 @@ This is the list of topics I have identified for further study and investigation
 | Google cloud platform in depth | 2 |
 | Interacting with and building APIs (e.g. django) | 2 | 
 | Context managers | 2 |
-| Regex (theory and practical use) | 3 | [Here](/docs/topics/regular_expressions.md) | Completed |
 | Continuous integration and deployment; docker | 3 |
 | Mapping | 3 |
 | Hashes | 3 |
@@ -68,6 +68,7 @@ This is the list of topics I have identified for further study and investigation
 | Airflow | 5 |
 | Scala | 5 |
 | Kafka | 5 |
+| Blockchain basics | 5 |
 ## Possible courses
 
 ### Smaller courses
