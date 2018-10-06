@@ -6,11 +6,11 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 | Topic(s) | Addressed |
 | :------- | :-------: |
 | General understanding of `bash` environment, commands and grammar | Yes |
-| Expansion | Yes |
-| `if else` and `case` statements |
-| Booleans |
-| Comparing different variable types (e.g. less than, more than, equal to) |
-| `for` loops |
+| Path and variable expansion | Yes |
+| `if else` and `case` statements | Yes |
+| Booleans | Yes |
+| Comparing different variable types (e.g. less than, more than, equal to) | Yes |
+| `for` loops | Yes |
 | Piping outputs of commands to other commands |
 | Difference between `>` and `>>` | Yes |
 | Proper use of `grep` |
@@ -24,8 +24,10 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 | Arguments and flags for `echo`, `read`, `export` |
 | `printf` vs `echo` |
 | Tests in bash |
+| Exit codes |
 
-Some places to start:
-* [Writing shell scripts](https://medium.com/tech-tajawal/writing-shell-scripts-the-beginners-guide-4778e2c4f609)
-* [Shebangs](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+Resources:
 * [Bash academy](https://www.bash.academy)
+* [Shebangs](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
+* [Linux/unix permissions](https://www.tutorialspoint.com/unix/unix-file-permission.htm)
+* [What is truth?](http://tldp.org/LDP/abs/html/testconstructs.html)
