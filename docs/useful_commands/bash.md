@@ -97,6 +97,31 @@ esac
 ```
 
 ## Loops
+### `for`
+Example 1
+```bash
+for i in 1 2 3 4
+    do
+        actions
+    done
+```
+
+Example 2
+```bash
+for i in {start..stop}
+    do
+        actions
+    done    
+```
+
+Example 3
+```bash
+for ((i=start; i<=stop; i++))
+    do
+        actions
+    done
+```
+    
 ### `while`
 ```bash
 while [[ conditional ]]
