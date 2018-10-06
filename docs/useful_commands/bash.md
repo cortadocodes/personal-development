@@ -74,9 +74,9 @@ If `[[ ]]` are used for comparing rather than `[ ]`, all the following compariso
 ## Conditionals
 ### `if`
 ```bash
-if [[ conditional ]]; then
+if [[ condition ]]; then
     action
-elif [[ another_conditional ]]; then
+elif [[ another_condition ]]; then
     another_action
 else
     something_else
@@ -124,7 +124,7 @@ for ((i=start; i<=stop; i++))
     
 ### `while`
 ```bash
-while [[ conditional ]]
+while [[ condition ]]
 do
     actions
 done
