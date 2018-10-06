@@ -17,7 +17,8 @@
 | `lsof -i :port` | Display process on `port` |
 | `kill -9 PID` | Kill process `PID` |
 | `$#` | Number of positional arguments |
-| `£?` | Exit code of last process |
+| `$*` | Return all positional arguments |
+| `$?` | Exit code of last process |
 | `$OSTYPE` | OS type | 
 | `$USERNAME` | Logged-in username |
 | `$HOME` | Home directory path |
@@ -55,6 +56,20 @@ the home directory).
 | `"false"` | `True` | Just a string |
 | `$true` | `False` | Uninitialised variable |
 | `$false` | `False` | Uninitialised variable |
+
+## Comparisons
+If `[[ ]]` are used for comparing rather than `[ ]`, all the following comparisons can be used:
+
+| Comparator | Intuitive notation | Less intuitive notation | Operand type |
+| :--------- | ------------------ | ------------------------| :----------- |
+| Less than | `<` | `-lt` (numeric only) | String, numeric |
+| Less than or equal |  | `-le` (numeric only) | Numeric |
+| Greater than | `>` | `-gt` (numeric only) | String, numeric |
+| Greater than or equal |  | `-ge` (numeric only)| Numeric |
+| Equal | `==` | `-eq` (numeric only) | String, numeric |
+| Not equal | `!=` | `-ne` (numeric only) | String, numeric |
+| Null |  | `-z` | String, numeric |
+| Not null |  | `-n` | String, numeric |
 
 ## Conditionals
 ### `if`
