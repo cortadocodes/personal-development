@@ -4,21 +4,13 @@
 | `\u` | Add the name of the current user when used in the prompt |
 | `\w` | Add the full path of the current directory, starting from `~` when used in the prompt |
 | `\W` | Add just the name of the current directory when used in the prompt |
-| `variable="$(command)"` | Store the output of a bash command `command` in the variable `$variable`
-| `${#variable}` | Get the length of `variable` |
 | `alias` | List bash aliases in current session |
 | `zip -r archive_name.zip folder_to_compress` | Zip `folder_to_compress` into `archive_name.zip` |
 | `unzip archive_name.zip` | Unzip zipped archive `archive_name.zip` |
-| `i>/dev/null` | Redirect file descriptor (FD) `i` to `null` device |
-| `i>&j` | Redirect FD `i`'s stream to FD `j`'s current stream |
-| `&>file` | Redirect standard output and standard error to `file` |
 | `array=( item1 item2 item3 )` | Create an array |
 | `"${array[@]}"` | Expand items in an array |
 | `lsof -i :port` | Display process on `port` |
 | `kill -9 PID` | Kill process `PID` |
-| `$#` | Number of positional arguments |
-| `$*` | Return all positional arguments |
-| `$?` | Exit code of last process |
 | `$OSTYPE` | OS type | 
 | `$USERNAME` | Logged-in username |
 | `$HOME` | Home directory path |
@@ -26,12 +18,30 @@
 
 Colours in bash: [guide](https://gist.github.com/vratiu/9780109)
 
-## File descriptors
+## Redirection
+
+| Command | Description |
+| :------ | :---------- |
+| `command>file` | Redirect output of `command` to `file`, overwriting it if it already exists |
+| `command>>file` | Redirect and append output of `command` to `file` |
+| `file<command` | Redirect contents of `file` into `stdin` of `command` |
+
+## File descriptors (FD)
 * 0 - `stdin`
 * 1 - `stdout`
 * 2 - `stderr`
 
+| Command | Description |
+| :------ | :---------- |
+| `&>file` | Redirect both standard output and standard error to `file` |
+| `i>/dev/null` | Redirect FD `i` to `null` device |
+| `i>&j` | Redirect FD `i`'s stream to FD `j`'s current stream |
+| `i<&-` | Close input FD `i` |
+| `i>&-` | Close output FD `i` |
+
 ## Exit codes
+Use `$?` to get the exit code of last process.
+
 * `1` - Catchall for general errors
 * `2` - Misuse of shell builtins (according to Bash documentation)
 * `126` - Command invoked cannot execute
@@ -52,6 +62,12 @@ substitute it in
 Note: bash variables can nearly always be put in double quotes (`""`) with no adverse effects, and can help avoid 
 catastrophic mistakes due to (perhaps unknown) spaces in variable values (such as accidentally deleting all files in 
 the home directory).
+
+| Command | Description |
+| :------ | :---------- |
+| `${#variable}` | Get the length of `variable` |
+| `$#` | Return number of positional arguments |
+| `$*` | Return all positional arguments |
 
 ## Truth values
 | Expression/type | Truth evaluation | Detail |
@@ -147,4 +163,8 @@ Note: if e.g. `while true` is used, the loop will continue until `CTRL+C` is exe
 my_function() {
     echo "Get positional arguments to function by using $1, $2 etc."
 }
+```
+Function return values can be accessed and assigned to a variable via command substitution:
+```bash
+output=$( my_function arg1 arg2 ... )
 ```
