@@ -31,6 +31,16 @@ Colours in bash: [guide](https://gist.github.com/vratiu/9780109)
 * 1 - `stdout`
 * 2 - `stderr`
 
+## Exit codes
+* `1` - Catchall for general errors
+* `2` - Misuse of shell builtins (according to Bash documentation)
+* `126` - Command invoked cannot execute
+* `127` - “command not found”
+* `128` - Invalid argument to `exit`
+* `128+n` - Fatal error signal “n”
+* `130` - Script terminated by Control-C
+* `255\*` - Exit status out of range
+
 ## Parameters/variables
 * **Assignment and reference:** assign with `a=value` and refer with `$a` - if `value` is a string with spaces in it,
  it must be in single or double quotes; double quotes are required if any variables are included
