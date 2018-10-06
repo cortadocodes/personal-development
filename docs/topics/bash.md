@@ -14,17 +14,17 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 | Piping outputs of commands to other commands |
 | Difference between `>` and `>>` | Yes |
 | Proper use of `grep` |
-| Reading in user input |
+| Reading in user input | Yes |
 | The intricacies of bash, shell and environment variables | Yes |
 | File and directory manipulation (e.g. checking if a directory exists, using the `find` command) |
-| Functions (including positional and optional arguments) |
-| Aliases |
+| Functions and positional arguments | Yes |
+| Aliases | Yes |
 | Multi-line string inputs |
-| Use of `chmod` |
+| Use of `chmod` | Yes |
 | Arguments and flags for `echo`, `read`, `export` |
 | `printf` vs `echo` |
 | Tests in bash |
-| Exit codes |
+| Exit codes | Yes |
 
 Resources:
 * [Bash academy](https://www.bash.academy)
