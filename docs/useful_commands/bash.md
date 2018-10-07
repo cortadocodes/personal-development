@@ -15,6 +15,9 @@
 | `$USERNAME` | Logged-in username |
 | `$HOME` | Home directory path |
 | `$BASH_VERSION` | Shell version |
+| `[[ -d directory ]]` | Test a directory exists |
+| `[[ -f file ]]` | Test a file exists |
+| `[[ -e file_or_directory ]]` | Test for existence of file or directory |
 
 Colours in bash: [guide](https://gist.github.com/vratiu/9780109)
 
@@ -167,4 +170,30 @@ my_function() {
 Function return values can be accessed and assigned to a variable via command substitution:
 ```bash
 output=$( my_function arg1 arg2 ... )
+```
+
+## HereDocs
+```bash
+command << delimiter
+line1
+line2
+line3
+delimiter
+```
+
+Ignore tabs by using `-`, e.g.:
+```bash
+cat <<- EOF
+    line1
+    line2
+    line3
+EOF
+```
+
+Send to a file:
+```bash
+cat > myfile <<- xxx
+    Content
+    More content
+xxx
 ```
