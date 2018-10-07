@@ -30,13 +30,13 @@ This is the list of topics I have identified for further study and investigation
 | Topic              | Priority | Details | Status |
 | :----------------- | :-------:| :-----: | :----: |
 | Advanced use of `git` (rebasing, squashing, tagging, hooks etc.) | 0 | [Here](/docs/topics/git.md) | Completed |
-| PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
 | Virtual environments | 1 | [Here](/docs/topics/virtual_environments.md) | Completed |
-| Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
-| Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) | Completed |
-| File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Regex (theory and practical use) | 1 | [Here](/docs/topics/regular_expressions.md) | Completed |
+| Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) | Completed |
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
+| PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
+| Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
+| File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
 | Python classes in depth (including `@classmethod` and `@staticmethod`) | 1 |
 | Testing and mocking with `pytest` in depth | 1 | [Here](/docs/topics/testing.md) |
