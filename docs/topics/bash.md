@@ -13,17 +13,16 @@ the particulars of bash syntax and methodology. To that end, I want to formally 
 | `for` loops | Yes |
 | Redirection and piping | Yes |
 | Difference between `>` and `>>` | Yes |
-| Proper use of `grep` |
+| Proper use of `grep` | Yes |
 | Reading in user input | Yes |
 | The intricacies of bash, shell and environment variables (e.g. when to `export`) | Yes |
-| File and directory manipulation (e.g. checking if a directory exists, using the `find` command) |
+| File and directory manipulation (e.g. checking if a directory exists, using the `find` command) | Yes |
 | Functions and positional arguments | Yes |
 | Aliases | Yes |
-| Multi-line string inputs |
+| Multi-line string inputs e.g. here-docs | Yes | 
 | Use of `chmod` | Yes |
 | Arguments and flags for `echo` | Yes |
 | `printf` vs `echo` | Yes |
-| Tests in bash |
 | Exit codes | Yes |
 
 Resources:
@@ -32,3 +31,5 @@ Resources:
 * [Linux/unix permissions](https://www.tutorialspoint.com/unix/unix-file-permission.htm)
 * [What is truth?](http://tldp.org/LDP/abs/html/testconstructs.html)
 * [Defining a variable with or without export](https://stackoverflow.com/questions/1158091/defining-a-variable-with-or-without-export)
+* [How To Use grep Command In Linux / UNIX](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/)
+* [35 Practical Examples of Linux Find Command](https://www.tecmint.com/35-practical-examples-of-linux-find-command/)
