@@ -33,6 +33,7 @@ This is the list of topics I have identified for further study and investigation
 | Use of PyCharm in depth | 3 | [Here](/docs/topics/pycharm.md) |
 | Use of vim in depth | 3 |
 | Static-typing in Python | 3 | 
+| Hexagonal architecture | 3 |
 | Python `multiprocessing` library | 4 |
 | Python GUIs and graphics | 4 |
 | Hosting webservers using e.g. Nginx | 4 |
