@@ -9,6 +9,7 @@ This is the list of topics I have identified for further study and investigation
 | Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) | Completed |
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
 | PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
+| Docker | 1 | [Here](/docs/topics/docker.md) | Active |
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
@@ -25,7 +26,7 @@ This is the list of topics I have identified for further study and investigation
 | Google cloud platform in depth | 2 |
 | Interacting with and building APIs (e.g. django) | 2 | 
 | Context managers | 2 |
-| Continuous integration and deployment; docker | 3 |
+| Continuous integration and deployment | 3 |
 | Mapping | 3 |
 | Hashes | 3 |
 | Machine learning libraries | 3 |
