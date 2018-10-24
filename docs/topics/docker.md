@@ -4,6 +4,7 @@
 | :------- | :-------: |
 | Basic concepts |
 | `docker` images and containers |
+| `docker daemon` |
 | `docker` services, load-balancing etc. |
 | `docker` swarms |
 | `docker` stack |
