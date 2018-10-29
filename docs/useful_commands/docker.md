@@ -10,6 +10,7 @@
 | Repository | A collection of images (like a GitHub repository, but with the code already built) |
 | Registry | A collection of repositories |
 | Service | A distinct part of a distributed application e.g. a database, a front-end etc. A service runs only one image, but replicas are common for e.g. load-balancing. Scaling a service entails increasing the number of containers running the application, assigning more computing resources to it. |
+| Task | A single container running in a service. |
 
 ## Useful commands
 ### General docker commands
@@ -43,7 +44,12 @@
 | `docker tag image_name username/respository:tag` | Tag an image for upload to a `repository` under account `username` in a registry; the `tag` is often used for versioning of the image |
 | `docker push username/respository:tag` | Push an image to a repository in the Docker public registry. The container can now be deployed on any machine by using `docker run -p machine_port:container_port username/repository:tag` |
 
-### Multi-container applications
+### Services
 | Command | Description |
 | :------ | :---------- |
 | `docker swarm init` | Initialise a swarm of containers |
+| `docker stack deploy -c docker-compose.yml app_name` | Deploy a new stack or update one, starting `app_name` by composing (`-c`) from a `docker-compose.yml` file |
+| `docker service ls` | See all running services |
+| `docker service ps app_name_service_name` | List the tasks of a service `service_name` running under `app_name` |
+| `docker stack rm app_name` | Take down an app |
+| `docker swarm leave --force` | Take down the swarm |
