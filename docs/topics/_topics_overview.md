@@ -9,6 +9,7 @@ This is the list of topics I have identified for further study and investigation
 | Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) | Completed |
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
 | PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
+| Interacting with and building APIs (e.g. django) | 1 |  | Active |
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
@@ -16,6 +17,7 @@ This is the list of topics I have identified for further study and investigation
 | Testing and mocking with `pytest` in depth | 1 | [Here](/docs/topics/testing.md) |
 | Principles of Test Driven Development (TDD) | 1 |
 | Error handling in Python | 1 |
+| `os` and `sys` python libraries | 1 |
 | Python set operations | 2 |
 | `matplotlib` and `seaborn` | 2 |
 | Markdown vs reStructuredText | 2 |
@@ -23,7 +25,6 @@ This is the list of topics I have identified for further study and investigation
 | Encoding | 2 |
 | Storage formats e.g. `csv` vs `parquet` vs `pickle` | 2 | 
 | Google cloud platform in depth | 2 |
-| Interacting with and building APIs (e.g. django) | 2 | 
 | Context managers | 2 |
 | Continuous integration and deployment; docker | 3 |
 | Mapping | 3 |
