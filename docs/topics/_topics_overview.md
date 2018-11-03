@@ -10,6 +10,7 @@ This is the list of topics I have identified for further study and investigation
 | Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
 | PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
 | Interacting with and building APIs (e.g. django) | 1 |  | Active |
+| Docker | 1 | [Here](/docs/topics/docker.md) | Active |
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
@@ -26,7 +27,7 @@ This is the list of topics I have identified for further study and investigation
 | Storage formats e.g. `csv` vs `parquet` vs `pickle` | 2 | 
 | Google cloud platform in depth | 2 |
 | Context managers | 2 |
-| Continuous integration and deployment; docker | 3 |
+| Continuous integration and deployment | 3 |
 | Mapping | 3 |
 | Hashes | 3 |
 | Machine learning libraries | 3 |
@@ -34,6 +35,7 @@ This is the list of topics I have identified for further study and investigation
 | Use of PyCharm in depth | 3 | [Here](/docs/topics/pycharm.md) |
 | Use of vim in depth | 3 |
 | Static-typing in Python | 3 | 
+| Hexagonal architecture | 3 |
 | Python `multiprocessing` library | 4 |
 | Python GUIs and graphics | 4 |
 | Hosting webservers using e.g. Nginx | 4 |

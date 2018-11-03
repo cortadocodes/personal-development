@@ -9,5 +9,6 @@ to learn more about the following things to become a more efficient engineer:
 * Advanced refactoring
 * Git and GitHub integration
 * Remote debugging
-* Profiling
+* Profiling and coverage
 * Scientific mode
+* Creating and syncing keymap repositories compatible with multiple development environments
