@@ -5,12 +5,15 @@
 | ---- | ------- |
 | Docker | A platform for developers to develop, deploy and run applications with containers |
 | Docker Compose | A tool for defining and running multi-container Docker applications |
+| Docker Machine | A tool for creating and managing machines running Docker |
 | Image | An executable package that includes everything needed to run an application - the code, a runtime, libraries, environment variables, and configuration files
 | Container | A runtime instance of an image - what the image becomes in memory when executed (that is, an image with state, or a user process)
 | Repository | A collection of images (like a GitHub repository, but with the code already built) |
 | Registry | A collection of repositories |
 | Service | A distinct part of a distributed application e.g. a database, a front-end etc. A service runs only one image, but replicas are common for e.g. load-balancing. Scaling a service entails increasing the number of containers running the application, assigning more computing resources to it. |
 | Task | A single container running in a service. |
+| Swarm | A group of machines running Docker, joined into a cluster. The swarm is orchestrated by a swarm manager |
+| Node | A machine that is a member of a swarm (either a swarm manager or a worker). |
 
 ## Useful commands
 ### General docker commands
@@ -53,3 +56,8 @@
 | `docker service ps app_name_service_name` | List the tasks of a service `service_name` running under `app_name` |
 | `docker stack rm app_name` | Take down an app |
 | `docker swarm leave --force` | Take down the swarm |
+
+### Swarms
+| Command | Description |
+| :------ | :---------- |
+| 
