@@ -21,6 +21,7 @@
 | `git reset --soft commit_id` | "Undo" the commits back to `commit_id` - the branch is rewound back to `commit_id` along with HEAD, while leaving the index and working directory unchanged (i.e. with the same contents as the commits that were undone). The undone commit can be reapplied (albeit with a different hash) by committing at this point | "Pro Git" |
 | `git reset commit_id` | Same as above, but also unstages the "undone" changes while leaving the working directory unchanged (i.e. with the same contents as the commits that were undone) | "Pro Git" |
 | `git reset --hard commit_id` | Same as above, but also removes the "undone" changes from the working directory. All changes in the working directory will be lost. | "Pro Git" |
+| `git rm --cached my_file` | Remove a file from a git repository without deleting the file. |
 
 Working directory unsafe commands:
 * `git reset --hard commit_id`
