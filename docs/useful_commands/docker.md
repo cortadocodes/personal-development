@@ -34,7 +34,7 @@
 ### Building images and running containers
 | Command | Description |
 | :------ | :---------- |
-| `docker build -t friendly_name` | Build a docker image and tag it with `friendly_name` |
+| `docker build -t friendly_name .` | Build a docker image from the current directory and tag it with `friendly_name` |
 | `docker run image_name` | Run image `image_name` |
 | `docker run -p machine_port:container_port friendly_name` | Run the image `friendly_name` and map the resulting container's published `container_port` to the `machine_port` |
 | `docker run -d -p machine_port:container_port friendly_name` | Same as above, but detach from the container (run it in the background) and return the container ID |
