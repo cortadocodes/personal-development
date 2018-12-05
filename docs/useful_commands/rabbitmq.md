@@ -1,0 +1,5 @@
+# RabbitMQ
+
+`docker run -d -p 5672:5672 -p 15672:15672 --name rabbitmq rabbitmq:3.7.7-management-alpine`
+`docker start rabbitmq`
+`docker inspect rabbitmq` for IP address (host: 'guest'; password: 'guest')
