@@ -22,8 +22,11 @@ improved over time.
 | Scrape engineering job listings | [scrape-job-listings](/projects/scrape_job_listings) | Not started |
 
 Other projects:
-* Parse a raw inventory file into a useful format and set reminders to refresh it when needed
-* Scrape interest rates of various financial products over time and plot them
+* Create an inventory system keeping track of when products need to be rotated and notifying the 
+  owner when this is the case 
+* Scrape interest rates of various financial products over time and plot them on a live dashboard
+* Traverse the network of dependencies in a python package and produce a graph illustrating their
+  linking structure (e.g. for visual inspection for circular imports)
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
