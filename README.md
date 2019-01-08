@@ -41,6 +41,7 @@ This is the list of topics I have identified for further study and investigation
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
 | Python classes in depth (including `@classmethod` and `@staticmethod`) | 1 |
+| Abstract base classes | 1 |
 | Testing and mocking with `pytest` in depth | 1 | [Here](/docs/topics/testing.md) |
 | Principles of Test Driven Development (TDD) | 1 |
 | Error handling in Python | 1 |
