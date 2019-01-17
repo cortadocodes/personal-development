@@ -1,10 +1,12 @@
 ## Proposed projects
 
 | Project | Location | Status |
-| :------ | :------- | :----: |
+| :------ | :------: | :----: |
 | Automate my finances | [finances-automation](https://github.com/cortadocodes/finances-automation) | Active |
+| Renewable energy dashboard | [renewable-energy-dashboard](/projects/renewable_energy_dashboard) | Not started |
+| Voice coding package |  | Not started |
 | Hack my Dyson air purifier | [hack-dyson-purifier](/projects/hack_dyson_purifier) | Not started |
-| Scraped lyric generator using Markov chain | [scraped-lyric-generator](https://github.com/cortadocodes/scraped-lyric-generator) | Active |
+| Scraped lyric generator using Markov chain | [scraped-lyric-generator](https://github.com/cortadocodes/scraped-lyric-generator) | On hold; requires refactor/restructure |
 | Scrape engineering job listings | [scrape-job-listings](/projects/scrape_job_listings) | Not started |
 
 Other projects:
