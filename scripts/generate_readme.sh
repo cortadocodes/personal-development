@@ -5,9 +5,10 @@
 
 repository_root="$(git rev-parse --show-toplevel)"
 docs="$repository_root/docs"
+projects="$repository_root/projects"
 
 overview="$docs/_overview.md"
-proposed_projects="$docs/_proposed_projects.md"
+proposed_projects="$projects/_projects_overview.md"
 topics_overview="$docs/topics/_topics_overview.md"
 courses="$docs/_courses.md"
 books="$docs/_books.md"
