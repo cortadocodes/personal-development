@@ -12,6 +12,7 @@ This is the list of topics I have identified for further study and investigation
 | Interacting with and building APIs (e.g. django) | 1 |  | Active |
 | Docker | 1 | [Here](/docs/topics/docker.md) | Active |
 | Clean architecture/domain driven design | 1 | [Here](/docs/topics/clean_architecture.md) | Active |
+| RabbitMQ and Celery | 1 | 
 | Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
 | Python decorators | 1 |
