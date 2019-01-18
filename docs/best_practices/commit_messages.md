@@ -21,6 +21,7 @@ footer
 * ENH: a new feature or enhancement to the code
 * FIX: a bug fix
 * REF: refactoring production code
+* REV: reverting a previous code change
 * TST: adding tests, refactoring test; no production code change
 
 **Subject** - describe succinctly what the commit does. The subject should:
