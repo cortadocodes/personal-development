@@ -8,6 +8,8 @@
 | `git reset --hard HEAD^` | Remove the last commit |
 | `git log --grep keyword` | Show only the commits containing `keyword` in the commit message |
 | `git log --decorate` | Show the positions of all pointers and tags in the local branch's commit history |
+| `git log --stat` | Show the number of insertions and deletions of each commit. |
+| `git whatchanged` | Show which files changed in each commit. |
 | `git reflog` | Show the position of each commit or checkout in relation to HEAD |
 | `git show HEAD@{n}` | See the commit at the `nth` previous position of HEAD |
 | `git show branch@{n.time_period.ago}` | Show the state of `branch` at a given point in time (e.g. `1.week.ago`, `3.hours.ago` or even  `yesterday`) |
