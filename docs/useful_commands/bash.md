@@ -18,6 +18,8 @@
 | `[[ -d directory ]]` | Test a directory exists |
 | `[[ -f file ]]` | Test a file exists |
 | `[[ -e file_or_directory ]]` | Test for existence of file or directory |
+| `fc` | Open the previous command in the default terminal editor, then run it on save and close |
+| `<space> <command>` | Don't store command in history |
 
 Colours in bash: [guide](https://gist.github.com/vratiu/9780109)
 
