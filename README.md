@@ -60,7 +60,7 @@ This is the list of topics I have identified for further study and investigation
 | Encoding | 2 |
 | Storage formats e.g. `csv` vs `parquet` vs `pickle` | 2 | 
 | Google cloud platform in depth | 2 |
-| Context managers | 2 |
+| Context managers | 2 | Active | [Here](/docs/topics/context_managers.md) |
 | Continuous integration and deployment | 3 |
 | Mapping | 3 |
 | Hashes | 3 |
