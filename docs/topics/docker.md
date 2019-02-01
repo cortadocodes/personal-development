@@ -15,3 +15,4 @@
 
 Resources:
 * [Docker docs get started tutorial](https://docs.docker.com/get-started/)
+* [Awesome docker](https://github.com/veggiemonk/awesome-docker)
