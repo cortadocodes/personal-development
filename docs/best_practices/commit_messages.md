@@ -20,6 +20,7 @@ footer
 * DOC: changes to documentation
 * ENH: a new feature or enhancement to the code
 * FIX: a bug fix
+* MRG: a merge commit
 * REF: refactoring production code
 * REV: reverting a previous code change
 * TST: adding tests, refactoring test; no production code change
