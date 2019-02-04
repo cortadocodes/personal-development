@@ -15,15 +15,16 @@ footer
 **Title** - consists of the type of the message and subject.
 
 **Type** - this is contained within the title and can be one of:
-* CHO: chore - updating build tasks, package manager configs, etc; no production code change
-* CLN: cleaning up e.g. wording of formatting of comments, making explanations more readable; no code change
-* DOC: changes to documentation
-* ENH: a new feature or enhancement to the code
-* FIX: a bug fix
-* MRG: a merge commit
-* REF: refactoring production code
-* REV: reverting a previous code change
-* TST: adding tests, refactoring test; no production code change
+* **CHO:** chore - updating build tasks, package manager configs, etc; no production code change
+* **CLN:** cleaning up e.g. wording of formatting of comments, making explanations more readable; no
+ code change
+* **DOC:** changes to documentation
+* **ENH:** a new feature or enhancement to the code
+* **FIX:** a bug fix
+* **MRG:** a merge commit
+* **REF:** refactoring production code
+* **REV:** reverting a previous code change
+* **TST:** adding tests, refactoring test; no production code change
 
 **Subject** - describe succinctly what the commit does. The subject should:
 * be no greater than 50 characters
