@@ -1,58 +1,58 @@
 ## Topics for study
 This is the list of topics I have identified for further study and investigation.
 
-| Topic              | Priority | Details | Status |
-| :----------------- | :-------:| :-----: | :----: |
-| Advanced use of `git` (rebasing, squashing, tagging, hooks etc.) | 0 | [Here](/docs/topics/git.md) | Completed |
-| Virtual environments | 1 | [Here](/docs/topics/virtual_environments.md) | Completed |
-| Regex (theory and practical use) | 1 | [Here](/docs/topics/regular_expressions.md) | Completed |
-| Bash and shell control in depth | 1 | [Here](/docs/topics/bash.md) | Completed |
-| Web scraping with `requests` and `beautifulsoup4` | 1 | [Here](/docs/topics/web_scraping.md) | Active |
-| PostgreSQL; creating, hosting and interacting with databases | 1 | [Here](/docs/topics/postgresql.md) | Active |
-| Interacting with and building APIs (e.g. django) | 1 |  | Active |
-| Docker | 1 | [Here](/docs/topics/docker.md) | Active |
-| Clean architecture/domain driven design | 1 | [Here](/docs/topics/clean_architecture.md) | Active |
-| RabbitMQ and Celery | 1 | 
-| Compression and archiving | 1 | [Here](/docs/topics/compression_and_archiving.md) | Active |
+| Topic              | Details | Status |
+| :----------------- | :-----: | :----: |
+| Advanced use of `git` (rebasing, squashing, tagging, hooks etc.) | [Here](/docs/topics/git.md) | Completed |
+| Virtual environments | [Here](/docs/topics/virtual_environments.md) | Completed |
+| Regex (theory and practical use) | [Here](/docs/topics/regular_expressions.md) | Completed |
+| Bash and shell control in depth | [Here](/docs/topics/bash.md) | Completed |
+| Web scraping with `requests` and `beautifulsoup4` | [Here](/docs/topics/web_scraping.md) | Active |
+| PostgreSQL; creating, hosting and interacting with databases | [Here](/docs/topics/postgresql.md) | Active |
+| Interacting with and building APIs (e.g. django) |  | Active |
+| Docker | [Here](/docs/topics/docker.md) | Active |
+| Clean architecture/domain driven design | [Here](/docs/topics/clean_architecture.md) | Active |
+| Compression and archiving | [Here](/docs/topics/compression_and_archiving.md) | Active |
+| Python `multiprocessing` library | [Here](/docs/topics/multiprocessing.md) | Active |
+| Context managers | [Here](/docs/topics/context_managers.md) | Active |
+| Python packaging in depth | [Here](/docs/topics/packaging.md) |
+| Testing and mocking with `pytest` in depth | [Here](/docs/topics/testing.md) |
+| Use of PyCharm in depth | [Here](/docs/topics/pycharm.md) |
 | Lambda functions |
 | Daemons |
-| Python packaging in depth | 1 | [Here](/docs/topics/packaging.md) |
-| File I/O including binary files and streams (including text wrappers and the python `io` libary) | 1 |
-| Python decorators | 1 |
-| Python classes in depth (including `@classmethod` and `@staticmethod`) | 1 |
-| Abstract base classes | 1 |
-| Testing and mocking with `pytest` in depth | 1 | [Here](/docs/topics/testing.md) |
-| Principles of Test Driven Development (TDD) | 1 |
-| Error handling in Python | 1 |
-| `os` and `sys` python libraries | 1 |
-| Python set operations | 2 |
-| `matplotlib` and `seaborn` | 2 |
-| Markdown vs reStructuredText | 2 |
-| Sphinx documentation | 2 |
-| Encoding | 2 |
-| Storage formats e.g. `csv` vs `parquet` vs `pickle` | 2 | 
-| Google cloud platform in depth | 2 |
-| Context managers | 2 | [Here](/docs/topics/context_managers.md) | Active |
-| Continuous integration and deployment | 3 |
-| Mapping | 3 |
-| Hashes | 3 |
-| Machine learning libraries | 3 |
-| The basics of Go | 3 |
-| Use of PyCharm in depth | 3 | [Here](/docs/topics/pycharm.md) |
-| Use of vim in depth | 3 |
-| Static-typing in Python | 3 | 
-| Hexagonal architecture | 3 |
-| Python `multiprocessing` library | 4 | [Here](/docs/topics/multiprocessing.md) | Active |
-| Python GUIs and graphics | 4 |
-| Hosting webservers using e.g. Nginx | 4 |
-| `pandas.groupby` objects further in depth | 4 |
-| NoSQL databases; mongoDB | 4 |
-| Cybersecurity basics for engineers | 4 |
-| HypothesisWorks tests | 4 |
-| Kubernetes | 5 | 
-| Spark and Hadoop | 5 |
-| ElasticSearch | 5 |
-| Airflow | 5 |
-| Scala | 5 |
-| Kafka | 5 |
-| Blockchain basics | 5 |
+| RabbitMQ and Celery |
+| File I/O including binary files and streams (including text wrappers and the python `io` libary) |
+| Python decorators |
+| Python classes in depth (including `@classmethod` and `@staticmethod`) |
+| Abstract base classes |
+| Principles of Test Driven Development (TDD) |
+| Error handling in Python |
+| `os` and `sys` python libraries |
+| Python set operations |
+| `matplotlib` and `seaborn` |
+| Markdown vs reStructuredText |
+| Sphinx documentation |
+| Encoding |
+| Storage formats e.g. `csv` vs `parquet` vs `pickle` | 
+| Google cloud platform in depth |
+| Continuous integration and deployment |
+| Mapping |
+| Hashes |
+| Machine learning libraries |
+| The basics of Go |
+| Use of vim in depth 
+| Static-typing in Python |
+| Hexagonal architecture 
+| Python GUIs and graphics |
+| Hosting webservers using e.g. Nginx |
+| `pandas.groupby` objects further in depth |
+| NoSQL databases; mongoDB |
+| Cybersecurity basics for engineers |
+| HypothesisWorks tests |
+| Kubernetes | 
+| Spark and Hadoop |
+| ElasticSearch |
+| Airflow |
+| Scala |
+| Kafka |
+| Blockchain basics |
