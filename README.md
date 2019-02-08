@@ -50,6 +50,7 @@ This is the list of topics I have identified for further study and investigation
 | Testing and mocking with `pytest` in depth | [Here](/docs/topics/testing.md) |
 | Use of PyCharm in depth | [Here](/docs/topics/pycharm.md) |
 | Lambda functions |
+| Ansible |
 | Daemons |
 | RabbitMQ and Celery |
 | File I/O including binary files and streams (including text wrappers and the python `io` libary) |
