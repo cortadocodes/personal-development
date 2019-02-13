@@ -24,6 +24,7 @@
 | `git reset commit_id` | Same as above, but also unstages the "undone" changes while leaving the working directory unchanged (i.e. with the same contents as the commits that were undone) |
 | `git reset --hard commit_id` | Same as above, but also removes the "undone" changes from the working directory. All changes in the working directory will be lost. |
 | `git rm --cached my_file` | Remove a file from a git repository without deleting the file. |
+| `git branch -vv \| grep ': gone]' \| awk '{print $1}' \| xargs git branch -d` | Prune local branches that are fully merged (see [here](https://stackoverflow .com/a/30494276). |
 
 Working directory unsafe commands:
 * `git reset --hard commit_id`
