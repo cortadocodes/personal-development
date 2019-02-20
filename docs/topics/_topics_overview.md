@@ -19,6 +19,7 @@ This is the list of topics I have identified for further study and investigation
 | Testing and mocking with `pytest` in depth | [Here](/docs/topics/testing.md) |
 | Use of PyCharm in depth | [Here](/docs/topics/pycharm.md) |
 | Python decorators | [Here](/docs/topics/decorators.md) |
+| Linux command line software | [Here](/docs/topics/linux.md) | 
 | Lambda functions |
 | Ansible |
 | Daemons |
