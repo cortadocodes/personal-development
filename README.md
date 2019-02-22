@@ -40,7 +40,6 @@ This is the list of topics I have identified for further study and investigation
 | Bash and shell control in depth | [Here](/docs/topics/bash.md) | Completed |
 | Web scraping with `requests` and `beautifulsoup4` | [Here](/docs/topics/web_scraping.md) | Active |
 | PostgreSQL; creating, hosting and interacting with databases | [Here](/docs/topics/postgresql.md) | Active |
-| Interacting with and building APIs (e.g. django) |  | Active |
 | Docker | [Here](/docs/topics/docker.md) | Active |
 | Clean architecture/domain driven design | [Here](/docs/topics/clean_architecture.md) | Active |
 | Compression and archiving | [Here](/docs/topics/compression_and_archiving.md) | Active |
@@ -51,7 +50,9 @@ This is the list of topics I have identified for further study and investigation
 | Testing and mocking with `pytest` in depth | [Here](/docs/topics/testing.md) |
 | Use of PyCharm in depth | [Here](/docs/topics/pycharm.md) |
 | Python decorators | [Here](/docs/topics/decorators.md) |
-| Linux command line software | [Here](/docs/topics/linux.md) | 
+| Linux command line utilities | [Here](/docs/topics/linux.md) | 
+| HTTP conventions | [Here](/docs/topics/http_conventions.md) |
+| Interacting with and building RESTful APIs (e.g. django) |
 | Lambda functions |
 | Ansible |
 | Daemons |
