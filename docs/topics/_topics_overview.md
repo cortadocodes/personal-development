@@ -15,6 +15,7 @@ This is the list of topics I have identified for further study and investigation
 | Python `multiprocessing` library | [Here](/docs/topics/multiprocessing.md) | Active |
 | Context managers | [Here](/docs/topics/context_managers.md) | Active |
 | Generators and `yield` | [Here](/docs/topics/generators_and_yielding.md) | Active |
+| Creating CLIs in python with `argparse` | [Here](/docs/topics/argparse.md) | Active |
 | Python packaging in depth | [Here](/docs/topics/packaging.md) |
 | Testing and mocking with `pytest` in depth | [Here](/docs/topics/testing.md) |
 | Use of PyCharm in depth | [Here](/docs/topics/pycharm.md) |
