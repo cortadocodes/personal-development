@@ -47,13 +47,13 @@ This is the list of topics I have identified for further study and investigation
 | Context managers | [Here](/docs/topics/context_managers.md) | Active |
 | Generators and `yield` | [Here](/docs/topics/generators_and_yielding.md) | Active |
 | Creating CLIs in python with `argparse` | [Here](/docs/topics/argparse.md) | Active |
+| Interacting with and building RESTful APIs | [Here](/docs/topics/apis.md) | Active
 | Python packaging in depth | [Here](/docs/topics/packaging.md) |
 | Testing and mocking with `pytest` in depth | [Here](/docs/topics/testing.md) |
 | Use of PyCharm in depth | [Here](/docs/topics/pycharm.md) |
 | Python decorators | [Here](/docs/topics/decorators.md) |
 | Linux command line utilities | [Here](/docs/topics/linux.md) | 
 | HTTP conventions | [Here](/docs/topics/http_conventions.md) |
-| Interacting with and building RESTful APIs (e.g. django) |
 | Lambda functions |
 | Ansible |
 | Daemons |
