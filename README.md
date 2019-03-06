@@ -54,6 +54,7 @@ This is the list of topics I have identified for further study and investigation
 | Python decorators | [Here](/docs/topics/decorators.md) |
 | Linux command line utilities | [Here](/docs/topics/linux.md) | 
 | HTTP conventions | [Here](/docs/topics/http_conventions.md) |
+| Memory architectures | [Here](/docs/topics/memory.md) |
 | Lambda functions |
 | Ansible |
 | Daemons |
