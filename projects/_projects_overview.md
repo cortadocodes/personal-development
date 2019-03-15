@@ -3,6 +3,7 @@
 | Project | Location | Status |
 | :------ | :------- | :----: |
 | Automate my finances | [finances-automation](https://github.com/cortadocodes/finances-automation) | Active |
+| Easy rental search | [easy-rental-search](https://github.com/cortadocodes/easy-rental-search) | Active |
 | Renewable energy dashboard | [renewable-energy-dashboard](/projects/renewable_energy_dashboard) | Not started |
 | Voice coding package | [voice-coding](/projects/voice_coding) | Not started |
 | Hack my Dyson air purifier | [hack-dyson-purifier](/projects/hack_dyson_purifier) | Not started |
