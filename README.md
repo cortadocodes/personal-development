@@ -18,6 +18,7 @@ improved over time.
 | :------ | :------- | :----: |
 | Automate my finances | [finances-automation](https://github.com/cortadocodes/finances-automation) | Active |
 | Easy rental search | [easy-rental-search](https://github.com/cortadocodes/easy-rental-search) | Active |
+| Raspberry Pi home security system | [pi-security](/projects/pi-security) | Active |
 | Renewable energy dashboard | [renewable-energy-dashboard](/projects/renewable_energy_dashboard) | Not started |
 | Voice coding package | [voice-coding](/projects/voice_coding) | Not started |
 | Hack my Dyson air purifier | [hack-dyson-purifier](/projects/hack_dyson_purifier) | Not started |
