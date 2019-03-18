@@ -40,6 +40,7 @@ This is the list of topics I have identified for further study and investigation
 | Virtual environments | [Here](/docs/topics/virtual_environments.md) | Completed |
 | Regex (theory and practical use) | [Here](/docs/topics/regular_expressions.md) | Completed |
 | Bash and shell control in depth | [Here](/docs/topics/bash.md) | Completed |
+| Creating CLIs in python with `argparse` | [Here](/docs/topics/argparse.md) | Completed |
 | Web scraping with `requests` and `beautifulsoup4` | [Here](/docs/topics/web_scraping.md) | Active |
 | PostgreSQL; creating, hosting and interacting with databases | [Here](/docs/topics/postgresql.md) | Active |
 | Docker | [Here](/docs/topics/docker.md) | Active |
@@ -48,7 +49,6 @@ This is the list of topics I have identified for further study and investigation
 | Python `multiprocessing` library | [Here](/docs/topics/multiprocessing.md) | Active |
 | Context managers | [Here](/docs/topics/context_managers.md) | Active |
 | Generators and `yield` | [Here](/docs/topics/generators_and_yielding.md) | Active |
-| Creating CLIs in python with `argparse` | [Here](/docs/topics/argparse.md) | Active |
 | Interacting with and building RESTful APIs | [Here](/docs/topics/apis.md) | Active
 | Python packaging in depth | [Here](/docs/topics/packaging.md) |
 | Testing and mocking with `pytest` in depth | [Here](/docs/topics/testing.md) |
