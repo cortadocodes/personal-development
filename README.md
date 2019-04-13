@@ -56,6 +56,7 @@ This is the list of topics I have identified for further study and investigation
 | Linux command line utilities | [Here](/docs/topics/linux.md) | 
 | HTTP conventions | [Here](/docs/topics/http_conventions.md) |
 | Memory architectures | [Here](/docs/topics/memory.md) |
+| Setting up a `gittea` mirror |
 | Lambda functions |
 | Ansible |
 | Daemons |
