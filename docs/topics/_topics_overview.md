@@ -11,7 +11,7 @@ This is the list of topics I have identified for further study and investigation
 | Web scraping with `requests` and `beautifulsoup4` | [Here](/docs/topics/web_scraping.md) | Active |
 | PostgreSQL; creating, hosting and interacting with databases | [Here](/docs/topics/postgresql.md) | Active |
 | Docker | [Here](/docs/topics/docker.md) | Active |
-| Clean architecture/domain driven design | [Here](/docs/topics/clean_architecture.md) | Active |
+| Clean code and architecture | [Here](/docs/topics/clean_code_and_architecture.md) | Active |
 | Compression and archiving | [Here](/docs/topics/compression_and_archiving.md) | Active |
 | Python `multiprocessing` library | [Here](/docs/topics/multiprocessing.md) | Active |
 | Context managers | [Here](/docs/topics/context_managers.md) | Active |
