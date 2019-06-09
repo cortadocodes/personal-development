@@ -12,6 +12,7 @@
 | Scrape engineering job listings | [scrape-job-listings](/projects/scrape_job_listings) | Not started |
 
 Other projects:
+* Set up a VPN server on a cloud-based virtual machine
 * Create an inventory system keeping track of when products need to be rotated and notifying the 
   owner when this is the case 
 * Scrape interest rates of various financial products over time and plot them on a live dashboard
