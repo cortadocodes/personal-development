@@ -15,11 +15,10 @@
 | Tags/releases | "Pro Git", [SemVer](https://semver.org) | Yes |
 | Commit hooks | "Pro Git"  | Yes |
 
-## Courses:
-* [Udacity: How to use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
-
-## Books:
+## Resources:
 * The official ["Pro Git" book](https://git-scm.com/book/en/v2/)
+* [Udacity: How to use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+* [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Practice
 See my [git-practice](https://github.com/cortadocodes/git-practice/tree/master/) repo, where I generate some 
