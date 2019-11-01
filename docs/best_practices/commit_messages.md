@@ -23,6 +23,7 @@ footer
 * **FIX:** a bug fix
 * **LOG:** changes related to logging
 * **MRG:** a merge commit
+* **OPT:** an optimisation
 * **REF:** refactoring production code
 * **REV:** reverting a previous code change
 * **TST:** adding tests, refactoring test; no production code change
