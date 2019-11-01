@@ -19,9 +19,9 @@ footer
 * **CLN:** cleaning up e.g. wording of formatting of comments, making explanations more readable; no
  code change
 * **DOC:** changes to documentation
-* **LOG:** changes related to logging
 * **ENH:** a new feature or enhancement to the code
 * **FIX:** a bug fix
+* **LOG:** changes related to logging
 * **MRG:** a merge commit
 * **REF:** refactoring production code
 * **REV:** reverting a previous code change
