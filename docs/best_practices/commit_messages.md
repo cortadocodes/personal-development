@@ -1,20 +1,18 @@
 # Git commit messages
 
 ## Message structure
-A commit messages consists of three distinct parts separated by a blank line: the title, an optional body and an optional 
+A commit messages consists of three distinct parts separated by a blank line: the title (made up of a type code and a subject), an optional body and an optional 
 footer. The layout looks like this:
 ```
-title (type: subject)
+Type code: Subject
 
-body
+Body
 
-footer
+Footer
 ```
 
 ## Components
-**Title** - consists of the type of the message and subject.
-
-**Type** - this is contained within the title and can be one of:
+**Type code** - denote the kind of change being made
 * **CHO:** chore - updating build tasks, package manager configs, etc; no production code change
 * **CLN:** cleaning up e.g. wording of formatting of comments, making explanations more readable; no
  code change
