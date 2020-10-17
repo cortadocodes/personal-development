@@ -1,4 +1,4 @@
-# Personal development - Marcus Lugg (cortadocodes)
+# Personal development - cortadocodes
 ## Overview
 This repository documents my personal development as a software engineer and Python programmer. It includes:
 * [Projects](#proposed-projects) I've proposed to hone my skills
