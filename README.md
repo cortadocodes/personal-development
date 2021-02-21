@@ -145,9 +145,3 @@ These are generally shorter and lower cost courses.
 | ['Python Machine Learning (Second edition)](https://www.amazon.co.uk/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=5DMG92NWSWYEBQ9FFV12) | Sebastian Raschka & Vahid Mirjalili | Python, machine learning |
 | ['The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations'](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=sr_1_fkmr0_1?keywords=The+DevOps+Handbook%3A%3A+How+to+Create+World-Class+Agility%2C+Reliability%2C+and+Security+in+Technology+Organizations+Kindle+Edition&qid=1559206790&s=gateway&sr=8-1-fkmr0) | Gene Kim, Patrick Debois, John Willis | DevOps |
 | ['Accelerate: The Science of Lean Software and Devops: Building and Scaling High Performing Technology Organizations'](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=olp_product_details?_encoding=UTF8&me=&qid=1559206263&sr=8-1) | Gene Kim, Nicole Forsgren, Jez Humble | DevOps |
-## Certifications, qualifications and achievements
-
-| Certification | Provider | Certificate | Achieved |
-| :------------ | :------- | :--------| :------: |
-| [GCP Essentials](https://qwiklabs.com/quests/23) | QwikLabs | [Here](https://qwiklabs.com/public_profiles/fa0e8d28-40f8-426d-9996-72183ee40853) | 2018-08-17 |
-| [Codecademy achievements](https://www.codecademy.com) | Codecademy | [Here](https://www.codecademy.com/marcuslugg/) | N/A |

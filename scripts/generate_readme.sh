@@ -12,7 +12,6 @@ proposed_projects="$projects/_projects_overview.md"
 topics_overview="$docs/topics/_topics_overview.md"
 courses="$docs/_courses.md"
 books="$docs/_books.md"
-certification="$docs/_certifications.md"
 
 readme="$repository_root/README.md"
 
